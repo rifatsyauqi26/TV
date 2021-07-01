@@ -489,17 +489,17 @@ http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 http://210.210.155.35/session/e08c4f70-9550-11eb-8dbb-95a095347988/dr9445/h/h02/01.m3u8
 #EXTINF:-1 group-title="KIDS",ANIMAX
 http://210.210.155.35/dr9445/h/h144/01.m3u8
-#EXTINF:-1 group-title="Kids",Animax 2
+#EXTINF:-1 group-title="KIDS",Animax 2
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(2dbe8ad3-8113-46ba-9aea-d218b7970c66)/manifest.mpd
 #EXTINF:-1 group-title="KIDS",Baby TV
 http://185.180.221.194:8278/streams/d/Babytv/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Biznet Kids
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 group-title="Kids",Biznet Kids 2
+#EXTINF:-1 group-title="KIDS",Biznet Kids 2
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-#EXTINF:-1 group-title="Kids",Cartoon Network
+#EXTINF:-1 group-title="KIDS",Cartoon Network
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd
-#EXTINF:-1 group-title="Kids",Cbeebies
+#EXTINF:-1 group-title="KIDS",Cbeebies
 https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 #EXTINF:-1 group-title="KIDS",DISNEY JUNIOR [ID] [VSN+]
 https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
@@ -511,7 +511,7 @@ https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mp
 http://51.79.82.231:8080/US_DISNEY_XD_EAST_USA/video.m3u8
 #EXTINF:-1 group-title="KIDS",Ebs Kids
 http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/chunklist_w2046056257.m3u8
-#EXTINF:-1 group-title="Kids",EBS Kids 2
+#EXTINF:-1 group-title="KIDS",EBS Kids 2
 http://wpso.com:1936/hls/kidshd.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-1 group-title="KIDS",GEM KIDS
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
@@ -519,7 +519,7 @@ http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
 http://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_640x360_800k.m3u8
 #EXTINF:-1 group-title="KIDS",Kabillion
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Kabillion 2
+#EXTINF:-1 group-title="KIDS",Kabillion 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 #EXTINF:-1 group-title="KIDS",KIDS TV [VSN+]
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
@@ -541,35 +541,35 @@ https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd
 #EXTINF:-1 group-title="KIDS",PBS Kids
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
-#EXTINF:-1 group-title="Kids",PBS Kids 2
+#EXTINF:-1 group-title="KIDS",PBS Kids 2
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",SPACETOON [AR]
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?Live-TV™
 #EXTINF:-1 group-title="KIDS",TVO Kids
 https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/master.m3u8
-#EXTINF:-1 group-title="Kids",Disney Channel
+#EXTINF:-1 group-title="KIDS",Disney Channel
 http://185.180.221.194:8278/streams/d/Disneyxd/playlist.m3u8
-#EXTINF:-1 group-title="Kids",BABY FIRST
+#EXTINF:-1 group-title="KIDS",BABY FIRST
 https://livecdn.fptplay.net/qnetlive/babyfirst_2000.stream/eroz_brebes.m3u8
-#EXTINF:-1 group-title="Kids",SuperToons
+#EXTINF:-1 group-title="KIDS",SuperToons
 https://kedoo-supertoonstv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Toons Googles
+#EXTINF:-1 group-title="KIDS",Toons Googles
 https://toongoggles-toongoggles-3-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Kids",Big Buck Bunny
+#EXTINF:-1 group-title="KIDS",Big Buck Bunny
 https://wowzaec2demo.streamlock.net/live/bigbuckbunny/eroz_brebes.m3u8
-#EXTINF:-1 group-title="Kids",Watch it Kids
+#EXTINF:-1 group-title="KIDS",Watch it Kids
 https://content.uplynk.com/channel/ce3b524c342247549e996e7d3a977157.m3u8
-#EXTINF:-1 group-title="Kids",Spacetoon
+#EXTINF:-1 group-title="KIDS",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kids",eGG Network
+#EXTINF:-1 group-title="KIDS",eGG Network
 http://akaram.zecast.net/akaram-live/akaramkidz/eroz_brebes.m3u8
-#EXTINF:-1 group-title="Kids",Animakids
+#EXTINF:-1 group-title="KIDS",Animakids
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 group-title="Kids",3ABN Kids
+#EXTINF:-1 group-title="KIDS",3ABN Kids
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
-#EXTINF:-1 group-title="Kids",CARTOON CLUB
+#EXTINF:-1 group-title="KIDS",CARTOON CLUB
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/eroz_brebes.m3u8
-#EXTINF:-1 group-title="Kids",CocoRo
+#EXTINF:-1 group-title="KIDS",CocoRo
 https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Cocoro/playlist.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",ABU DHABI SPORTS 3
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
@@ -1255,3 +1255,4 @@ https://ia600402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/28.mp3
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/29.mp3
 #EXTINF:-1 group-title="TILAWAH ALQUR'AN JUZ",Juz 30
 https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
+
