@@ -645,7 +645,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c50009
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecb336537e8000764a17f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=48.8582&deviceLon=2.3387&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=FR&serverSideAds=false&sessionID=cc7dc550-6be3-11eb-9c02-0242ac110002&sid=cc7dc550-6be3-11eb-9c02-0242ac110002&userId=
 #EXTINF:-1 group-title="KIDS",Pluto TV Junior 3
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12141b146d760007934ea7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
- 4
+4
 #EXTINF:-1 group-title="KIDS",Pluto TV Junior
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 group-title="KIDS",Pluto TV Junior 5
@@ -2962,6 +2962,290 @@ http://srv18.nf21.net/files/15-2018-08-03-ce61122e665966846c98cf23645c9b83.mp4
 http://srv18.nf21.net/files/10-2018-08-06-7dae19687c0d57fabf80cda51736f30d.mp4
 #EXTINF:-1 group-title="VOD MOVIES",5 Cowok Jagoan (2017)
 http://srv18.nf21.net/files/15-2018-08-11-a853b03a150b6a4b09f6c5b46fc73861.mp4
+#EXTINF:-1 group-title="VOD MOVIES",A Quiet Place Part II
+https://archive.org/download/aqppii-2021/AQPPII2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",In The Heights
+https://archive.org/download/ith-2021/ITH2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Infinite
+https://archive.org/download/ifit-2021/Ifit2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Four Good Days
+https://archive.org/download/fgd-2021/FGD2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Education of Fredrick Fitzell
+https://archive.org/download/teo-ff-2021/TEoFF2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Godzilla vs. Kong
+https://archive.org/download/mdgtujzhv_stnaerjxgfbh_gerghdfgafqwegt/mdgtujzhv_stnaerjxgfbh_gerghdfgafqwegt.mp4
+#EXTINF:-1 group-title="VOD MOVIES",SAS: Red Notice
+https://archive.org/download/g84aerg1g4er8g4aer56g4er5g4/g84aerg1g4er8g4aer56g4er5g4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Sentinelle
+https://archive.org/download/stille-2021/Stille2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Reckoning
+https://archive.org/download/te-rekin-2021/TeRekin2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Those Who Wish Me Dead
+https://archive.org/download/twwmd-2021/TWWMD2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Marksman
+https://archive.org/download/tm-2021/TM2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Endangered Species
+https://archive.org/download/esp-2021/ESp2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Trigger Point
+https://archive.org/download/tp-2021/TP2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Eggs
+https://archive.org/download/es-2021/Es2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Raya e o Último Dragão
+https://archive.org/download/ryadte-lst-daon-2021-ptpt/RyadteLstDaon2021PTPT.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cruella
+https://archive.org/download/crla-pt-2021/CrlaPT2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Tom & Jerry
+https://archive.org/download/tjpt-2021/TJPT2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Luca
+https://archive.org/download/lc-pt-2021/LcPT2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Mitchells vs. The Machines 2
+https://archive.org/download/tmihllv-te-mies-pt-2021/TMihllvTeMiesPT2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Tom & Jerry 2
+https://archive.org/download/0217f-7521a-2d-70ca-84719db-45e-4ecc-1e/0217f7521a2d70ca84719db45e4ecc1e.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Zack Snyders Justice League
+https://archive.org/download/dabc27d59babe6ed0209b766e23e2b36/dabc27d59babe6ed0209b766e23e2b36.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Chaos Walking
+https://archive.org/download/er56g4sd564sd6f846gf4/er56g4sd564sd6f846gf4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Raya and the Last Dragon
+https://archive.org/download/ryadte-lst-daon-2021/RyadteLstDaon2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cosmic Sin
+https://archive.org/download/comcin-2021/Comcin2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Space Sweepers
+https://archive.org/download/spce-swers-2021/SpceSwers2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Mortal Kombat
+https://archive.org/download/mtal-kobt-2021/MtalKobt2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Justice Society: World War II
+https://archive.org/download/juice-socy-wwii-2021/JuiceSocyWWII2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Tom Clancys Without Remorse
+https://archive.org/download/to-cacy-wout-rose-2021/ToCacyWoutRose2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Voyagers
+https://archive.org/download/vyers-2021/Vyers2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Awake
+https://archive.org/download/ake-2021/Ake2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Edge of the World
+https://archive.org/download/eot-w-2021/EotW2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Misfits
+https://archive.org/download/tm-2021_202106/TM2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Ice Road
+https://archive.org/download/tir-2021/TIR2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Tomorrow War
+https://archive.org/download/ttw-2021/TTW2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The United States vs. Billie Holiday
+https://archive.org/download/tusvs-bh-2021/TUSvsBH2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Yes Day
+https://archive.org/download/c134544f45efd63518e7a32be41c297e/c134544f45efd63518e7a32be41c297e.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Just Say Yes
+https://archive.org/download/hgftrjhg45ghgh4d56rg4er89g4t8gh/hgftrjhg45ghgh4d56rg4er89g4t8gh.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Thunder Force
+https://archive.org/download/sd56gtr4gdf5vg1f4e8g4/sd56gtr4gdf5vg1f4e8g4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Coming 2 America
+https://archive.org/download/coing-2-arca/Coing2Arca.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Rifkins Festival
+https://archive.org/download/rfkns-fesvl-2020/RfknsFesvl2020.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Crazy About Her
+https://archive.org/download/crzy-abt-he-2021/CrzyAbtHe2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Brian Regan: On the Rocks
+https://archive.org/download/bian-rgnote-rks-2021/BianRgnoteRks2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Flora & Ulysses
+https://archive.org/download/flr-uyss-2021/Flr%26Uyss2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Lena and Snowball
+https://archive.org/download/lnand-swall-2021/LnandSwall2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Squared Love
+https://archive.org/download/sqed-lve-2021/SqedLve2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",To All the Boys: Always and Forever
+https://archive.org/download/tal-tbys-alwsad-frer-2021/TAlTBysAlwsadFrer2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",June & Kopi
+https://archive.org/download/jnend-ki-2021/JnendKi2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Mitchells vs. The Machines
+https://archive.org/download/tmihllv-te-mies-2021/TMihllvTeMies2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",French Exit
+https://archive.org/download/fe-2021/FE2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Woman in the Window
+https://archive.org/download/twit-w-2021/TWitW2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Mainstream
+https://archive.org/download/mintr-2021/Mintr2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Last Call
+https://archive.org/download/lc-2021/LC2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Bo Burnham: Inside
+https://archive.org/download/bbi-2021/BBI2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Fatherhood
+https://archive.org/download/fahd-2021/Fahd2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Dark Web Cicada 3301
+https://archive.org/download/dwc-33012021/DWC33012021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Sky High
+https://archive.org/download/df8g4df65g4adf98g4789g4sdf564/df8g4df65g4adf98g4789g4sdf564.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Original Gangster
+https://archive.org/download/df74g6fsd8g4sd6g45sd6g4/df74g6fsd8g4sd6g45sd6g4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Girl on the Train
+https://archive.org/download/te-grlonte-tin-2021/TeGrlonteTin2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",I Care a Lot
+https://archive.org/download/icrea-lt-2021/ICreaLt2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Misadventures of Hedi and Cokeman
+https://archive.org/download/te-misvtusf-hind-ckan-2021/TeMisvtusfHindCkan2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Little Things
+https://archive.org/download/te-lile-thgs-2021/TeLileThgs2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Nobody
+https://archive.org/download/nbdy-2021/Nbdy2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Virtuoso
+https://archive.org/download/te-viuso-2021/TeViuso2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cabras da Peste
+https://archive.org/download/caasd-pst-2021/CaasdPst2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Breaking News in Yuba County
+https://archive.org/download/bnin-yc-2021/BNinYC2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Happily
+https://archive.org/download/hppy-2021/Hppy2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",I Am All Girls
+https://archive.org/download/iaag-2021/IAAG2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Vanquish
+https://archive.org/download/vaish-2021/Vaish2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Red
+https://archive.org/download/rd-2021/Rd2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Silk Road
+https://archive.org/download/sr-2021/SR2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Gatao: The Last Stray
+https://archive.org/download/gtls-2021/GTLS2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Os Salafrários
+https://archive.org/download/os-2021_202106/OS2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",No Sudden Move
+https://archive.org/download/nsm-2021/NSM2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Two Distant Strangers
+https://archive.org/download/2-dsta-sngrs-2020/2DstaSngrs2020.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Maggie Simpson in The Force Awakens from Its Nap
+https://archive.org/download/msi-tfaf-in-2021/MSiTFAfIN2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Caught by a Wave
+https://archive.org/download/cughya-wve-2021/CughyaWve2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Dolly Parton: A MusiCares Tribute
+https://archive.org/download/gh156fg0sdgsd56gsd5d/gh156fg0sdgsd56gsd5d.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Pelé
+https://archive.org/download/ple-2021/Pl%C3%A92021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Billie Eilish: The Worlds a Little Blurry
+https://archive.org/download/blle-eishth-wldsa-lte-blry-2021/BlleEishthWldsaLteBlry2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Bastille ReOrchestrated
+https://archive.org/download/bstile-rorstted-2021/BstileRorstted2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Fake Famous
+https://archive.org/download/fk-faous-2021/FkFaous2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Black Art: In the Absence of Light
+https://archive.org/download/bck-at-ite-aenceo-lgh-2021/BckAtIteAenceoLgh2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Marvels Behind the Mask
+https://archive.org/download/mrls-bhdte-ma-2021/MrlsBhdteMa2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Day Sports Stood Still
+https://archive.org/download/te-dy-spts-soo-sil-2021/TeDySptsSooSil2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Covid Diaries NYC
+https://archive.org/download/cvd-dires-nyc-2021/CvdDiresNYC2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Why Did You Kill Me?
+https://archive.org/download/wy-dd-ykl-m-2021/WyDdYKlM2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Operation Varsity Blues: The College Admissions Scandal
+https://archive.org/download/opatn-vaiy-bue-te-colle-amion-sndl-2021/OpatnVaiyBueTeColleAmionSndl2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",More Than Miyagi: The Pat Morita Story
+https://archive.org/download/mr-tan-myai-te-pa-mita-sty-2021/MrTanMyaiTePaMitaSty2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Heroes. Silencio y Rock & Roll
+https://archive.org/download/hsrr-2021/HSRR2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Year Earth Changed
+https://archive.org/download/tyec-2021/TYEC2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Tina
+https://archive.org/download/ta-2021/Ta2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cherry
+https://archive.org/download/zdsbhndgjmghbdzghdtyjstrzdfghdyj/zdsbhndgjmghbdzghdtyjstrzdfghdyj.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Judas and the Black Messiah
+https://archive.org/download/ynysetnsbrmynbysrtyhkfc54654hty4er4ert/ynysetnsbrmynbysrtyhkfc54654hty4er4ert.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Concrete Cowboy
+https://archive.org/download/ghmjty7jh56gf6h4trh456h/ghmjty7jh56gf6h4trh456h.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Madame Claude
+https://archive.org/download/sdgsdrhdf5h14g4we64se56gf4sd56/sdgsdrhdf5h14g4we64se56gf4sd56.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Wildcat
+https://archive.org/download/sd8t4r89hmb4sd8gf4r78ghj/sd8t4r89hmb4sd8gf4r78ghj.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Father
+https://archive.org/download/dfg4sr6g51sd5vf4sd86gf4s6/dfg4sr6g51sd5vf4sd86gf4s6.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The World to Come
+https://archive.org/download/er9d86ty7er84erf14wef4r6g5rgergfwegft/er9d86ty7er84erf14wef4r6g5rgergfwegft.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Have You Ever Seen Fireflies?
+https://archive.org/download/dfh4j4df56g4sddrh84/dfh4j4df56g4sddrh84.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Geez & Ann
+https://archive.org/download/asdf48asd86gf4sd64asd864asd8f4/asdf48asd86gf4sd64asd864asd8f4.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Land
+https://archive.org/download/01gfrg56gfsd86g4sd65g1sdf5g31sdf/01gfrg56gfsd86g4sd65g1sdf5g31sdf.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Moxie
+https://archive.org/download/sdf86g54sd5314as65f4deg864sd/sdf86g54sd5314as65f4deg864sd.mp4
+#EXTINF:-1 group-title="VOD MOVIES",O Sítio da Mulher Morta
+https://archive.org/download/f4de4f56df1e56f4we8f4we4f/f4de4f56df1e56f4we8f4we4f.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Asia
+https://archive.org/download/sd45fsd5gf48ef4as5d4f/sd45fsd5gf48ef4as5d4f.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Mauritanian
+https://archive.org/download/temaritian2021/TeMaritian2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",A Abóbada
+https://archive.org/download/aabada-2021/AAbada2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Falling
+https://archive.org/download/fllng-2020/Fllng2020.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Lady of Guadalupe
+https://archive.org/download/lyf-gadap-2020/LyfGadap2020.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Red Dot
+https://archive.org/download/rdot-2021/RDot2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Music
+https://archive.org/download/mic-2021/Mic2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",American Skin
+https://archive.org/download/acan-skn-2021/AcanSkn2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Uma Vida Toda Empatada
+https://archive.org/download/ua-vda-ta-emtda-2021/UaVdaTaEmtda2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",O Tesouro
+https://archive.org/download/otsuro-2021/OTsuro2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",As Cinzas da Mãe
+https://archive.org/download/acnzd-me-2021/ACnzdMe2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Soul
+https://archive.org/download/th-sul-2021/ThSul2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Stowaway
+https://archive.org/download/soaay-2021/Soaay2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Things Heard & Seen
+https://archive.org/download/tha-s-2021/THaS2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Homunculus
+https://archive.org/download/hounclus-2021/Hounclus2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Deadly Illusions
+https://archive.org/download/dely-illons-2021/DelyIllons2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Paper Lives
+https://archive.org/download/pper-lis-2021/PperLis2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Crisis
+https://archive.org/download/cis-2021/Cis2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Colors of Love
+https://archive.org/download/co-l-2021/CoL2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Oslo
+https://archive.org/download/ol-2021/Ol2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Boogie
+https://archive.org/download/boge-2021/Boge2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Oxygène
+https://archive.org/download/oxe-2021/Oxe2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Gaia
+https://archive.org/download/ga-2021/Ga2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Map of Tiny Perfect Things
+https://archive.org/download/th-mpof-ty-perc-thgs-2021/ThMpofTyPercThgs2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",El ascensor
+https://archive.org/download/el-acsor-2021/ElAcsor2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Come True
+https://archive.org/download/cm-tue-2021/CmTue2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Doors
+https://archive.org/download/dos-2021/Dos2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Exodus
+https://archive.org/download/exus-2021/Exus2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Night
+https://archive.org/download/th-nht-2021/ThNht2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Seance
+https://archive.org/download/sanc-2021/Sanc2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Fear Street Part One: 1994
+https://archive.org/download/fspo-19942021/FSPO19942021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Wrong Turn
+https://archive.org/download/wrog-tn-2021/WrogTn2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Willys Wonderland
+https://archive.org/download/wiys-wonand-2021/WiysWonand2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Doll Face
+https://archive.org/download/dll-fce-2021/DllFce2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Phobias
+https://archive.org/download/phis-2021/Phis2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Great White
+https://archive.org/download/gw-2021_202105/GW2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Djinn
+https://archive.org/download/td-2021_202105/TD2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Goodbye Butterfly
+https://archive.org/download/god-be-bttrfly-2021/GodBeBttrfly2021.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Faceless
+https://archive.org/download/facles-2021/Facles2021.mp4
 #EXTINF:-1 group-title="VOD KIDS",Altered Carbon: Resleeved (2020)
 https://lh3.googleusercontent.com/7OLP6M9nxhHH94oZF0Lli45nYDntGTmvmHqb9OnTeTvdb1jSPnjBcDxP1CJ89Dr8aw-IZdYuG9UGJUymew=m22
 #EXTINF:-1 group-title="VOD KIDS",Onward (2020)
