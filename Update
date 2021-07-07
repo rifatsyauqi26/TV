@@ -129,10 +129,6 @@ http://video2.onlivestreaming.net/tatv/live.sdp/playlist.m3u8?inn=eroz_brebes.m3
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7a73ed02-e0de-4df1-8da3-5abfd75f24bd)/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA",JawaPosTV Banten
 http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="INDONESIA",Badar TV
-https://e1.siar.us/badartv/live/chunks.m3u8
-#EXTINF:-1 group-title="INDONESIA",BADAR TV 2
-https://e1.siar.us/badartv/live/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA",The Indonesia Channel
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(20baf7aa-fd51-480f-87b3-dc4198090e86)/index.m3u8
 #EXTINF:-1 group-title="INDONESIA",THE INDONESIA CHANNEL 2
@@ -141,8 +137,6 @@ https://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/7dd4cf51_1_1400000
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(8e867ae0-b2c0-4968-9f60-a11aee8c0987)/manifest.mpd?c:eroz_brebes.m3u8
 #EXTINF:-1 group-title="INDONESIA",BALI TV 2
 https://liveanevia.mncnow.id/live/eds/BaliTV_Timeshift/sa_dash_timeshift/BaliTV_Timeshift.mpd
-#EXTINF:-1 group-title="INDONESIA",I AM CHANNEL
-http://iamchannel.org:1935/tes/1/eroz_brebes.m3u8?op=eroz_brebes.m3u8
 #EXTINF:-1 group-title="INDONESIA",TVRI SPORTS
 http://eroz84.wap.sh/local/tvri_sport.m3u8
 #EXTINF:-1 group-title="INDONESIA",TVRI 3 Budaya
@@ -257,16 +251,12 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6852-al-quran-al-kareem-tv
 #EXTINF:-1 group-title="RELIGI",ASHIIL TV
 http://wowza60.indostreamserver.com:1935/ashiiltv2/android/chunklist_w183011391.m3u8
-#EXTINF:-1 group-title="RELIGI",I AM CHANNEL
-http://iamchannel.org:1935/tes/1/chunklist_w517367057.m3u8
 #EXTINF:-1 group-title="RELIGI",Iqraa TV
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/chunks.m3u8
 #EXTINF:-1 group-title="RELIGI",LIFE
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 #EXTINF:-1 group-title="RELIGI",MADANI TV
 https://stream.asianastream.com/madani/ngrp:madanitv_all/playlist.m3u8
-#EXTINF:-1 group-title="RELIGI",MGI TV
-https://tv.rodja.live/tasik/mgitv/playlist.m3u8
 #EXTINF:-1 group-title="RELIGI",MUADZ TV
 http://wowza60.indostreamserver.com:1935/muadztv/live/chunklist_w1655663467.m3u8?Stream-ID-PPIIPTV-MuadztvEdhorizki-master.js
 #EXTINF:-1 group-title="RELIGI",MTA TV [Usee]
@@ -277,8 +267,6 @@ https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8
 #EXTINF:-1 group-title="RELIGI",RODJA TV [Dens]
 http://210.210.155.35/session/0500beca-b048-11ea-90d2-8210bae640b6/qwr9ew/s/s14/02.m3u8
-#EXTINF:-1 group-title="RELIGI",Surau TV
-http://119.235.249.58:1935/surautv/live/chunklist_w1776413384.m3u8
 #EXTINF:-1 group-title="RELIGI",TV9
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
 #EXTINF:-1 group-title="RELIGI",Wesal TV
@@ -305,8 +293,6 @@ https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd
 https://www.dropbox.com/s/dl/i77lg3livx7qhzj/carawaktv-hbosig.m3u8
 #EXTINF:-1 group-title="HBO And FOX",HBO SIGNATURE 2
 https://liveanevia.mncnow.id/live/eds/HBOSignature2/sa_dash_vmx/HBOSignature2.mpd
-#EXTINF:-1 group-title="HBO And FOX",HBO RED
-https://tv.aryakrida.com/live/hbo/RED.m3u8
 #EXTINF:-1 group-title="HBO And FOX",FOX HD
 http://185.180.221.194:8278/streams/d/Foxhd/playlist.m3u8
 #EXTINF:-1 group-title="HBO And FOX",FOX [VSN+]
@@ -453,10 +439,6 @@ http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-1 group-title="HIBURAN",Zee Classic
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="HIBURAN",Zee Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="HIBURAN",&Pictures HD
-https://y5w8j4a9.ssl.hwcdn.net/andpicshd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="HIBURAN",Movie Hollywood Action
 https://lightning-actionhollywood-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="HIBURAN",ASTRO BOO
@@ -579,14 +561,10 @@ http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_960x540_2000k.m3u8
 #EXTINF:-1 group-title="KIDS",GEM Kids [Geo-blocked]
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8
-#EXTINF:-1 group-title="KIDS",Gravity Fouls
-https://autopilot.catcast.tv/content/38105/index.m3u8
 #EXTINF:-1 group-title="KIDS",Gulli (540p)
 https://d13anarbtxy8c5.cloudfront.net/6play/short/clr/gulli/sdindex.m3u8
 #EXTINF:-1 group-title="KIDS",Gulli Girl (576p) [Not 24/7]
 http://188.40.68.167/russia/gulli_girl/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",JimJam Россия (576p)
-http://188.40.68.167/russia/jimjam/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Kinder TV
 http://autopilot.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 group-title="KIDS",Kuriakos Kids (1080p) 2
@@ -856,8 +834,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8?eroz8
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Tigo sport
-https://dipdxjic51jcl.cloudfront.net/out/v1/affd42eba9da49dca9e30234fefa2ab5/index_6.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Astro Supersport 2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",A.F.N
@@ -952,8 +928,6 @@ http://live.cnnindonesia.com:80/livecnn/smil:cnntv.smil/chunklist_w2069650134_b2
 http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 #EXTINF:-1 group-title="NEWS",FRANCE 24
 http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s22/01.m3u8
-#EXTINF:-1 group-title="NEWS",Jakarta Globe News Channel TV
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
 #EXTINF:-1 group-title="NEWS",MNC News
 https://cdn-livetv-studio.metube.id/mncnews.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",VICTOR FRANKENSTEIN (2015)
@@ -2600,8 +2574,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960948
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960949
 #EXTINF:-1 group-title="VOD MOVIES",Bleeding Steel (2017)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960950
-#EXTINF:-1 group-title="VOD MOVIES",Dragon Blade (2015)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960951
 #EXTINF:-1 group-title="VOD MOVIES",Detective Chinatown 2 (2018)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960952
 #EXTINF:-1 group-title="VOD MOVIES",Detective Dee: The Four Heavenly Kings (2018)
