@@ -1,30 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="INDONESIA",ANTV
-http://210.210.155.35/session/751485fe-aee3-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8
-#EXTINF:-1 group-title="INDONESIA",ANTV 2
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
-#EXTINF:-1 group-title="INDONESIA",ELSHINTA TV
-http://210.210.155.35/session/4c182778-8e4e-11eb-8016-b82a72d63267/qwr9ew/s/s10/index10.m3u8
-#EXTINF:-1 group-title="INDONESIA",Global TV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/778-global
-#EXTINF:-1 group-title="INDONESIA",Global TV 2
-https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-#EXTINF:-1 group-title="INDONESIA",INEWS
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/5409-inews
-#EXTINF:-1 group-title="INDONESIA",INEWS 2
-https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
-#EXTINF:-1 group-title="INDONESIA",INEWS 3
-http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 group-title="INDONESIA",INDOSIAR
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/205-indosiar
-#EXTINF:-1 group-title="INDONESIA",INDOSIAR 2
-https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
-#EXTINF:-1 group-title="INDONESIA",JAKTV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/5415-jak
-#EXTINF:-1 group-title="INDONESIA",JAKTV 2
-https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
-#EXTINF:-1 group-title="INDONESIA",JTV [Usee]
-http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
 #EXTINF:-1 group-title="INDONESIA",KOMPAS TV
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/874-kompas
 #EXTINF:-1 group-title="INDONESIA",Kompas TV 2
@@ -45,14 +19,6 @@ http://eroz84.wap.sh/local/mnc.m3u8
 https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 group-title="INDONESIA",MNC 4
 http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 group-title="INDONESIA",MYTV
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6711-mytv
-#EXTINF:-1 group-title="INDONESIA",MYTV 2
-https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
-#EXTINF:-1 group-title="INDONESIA",NUSANTARA TV
-https://v6.siar.us/nusantaratv/live/chunks.m3u8
-#EXTINF:-1 group-title="INDONESIA",O CHANNEL
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/206-ochannel
 #EXTINF:-1 group-title="INDONESIA",RCTI
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/665-rcti
 #EXTINF:-1 group-title="INDONESIA",RCTI 2
@@ -61,10 +27,24 @@ http://eroz84.wap.sh/local/rcti.m3u8
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd
 #EXTINF:-1 group-title="INDONESIA",RCTI 4
 http://live.unregister.xyz/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8
-#EXTINF:-1 group-title="INDONESIA",RRI NET
-http://36.89.47.217:11935/rrinet/live/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",RRI Net 2
-http://eroz84.wap.sh/local/rri.m3u8
+#EXTINF:-1 group-title="INDONESIA",Global TV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/778-global
+#EXTINF:-1 group-title="INDONESIA",Global TV 2
+https://liveanevia.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+#EXTINF:-1 group-title="INDONESIA",INEWS
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/5409-inews
+#EXTINF:-1 group-title="INDONESIA",INEWS 2
+https://liveanevia.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd
+#EXTINF:-1 group-title="INDONESIA",INEWS 3
+http://live.unregister.xyz/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
+#EXTINF:-1 group-title="INDONESIA",INDOSIAR
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/205-indosiar
+#EXTINF:-1 group-title="INDONESIA",INDOSIAR 2
+https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd
+#EXTINF:-1 group-title="INDONESIA",ANTV
+http://210.210.155.35/session/751485fe-aee3-11ea-934d-b82a72d63267/qwr9ew/s/s07/02.m3u8
+#EXTINF:-1 group-title="INDONESIA",ANTV 2
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
 #EXTINF:-1 group-title="INDONESIA",RTV
 http://210.210.155.35/session/e195c91c-9912-11eb-9546-a4e0bce47b39/qwr9ew/s/s12/01.m3u8
 #EXTINF:-1 group-title="INDONESIA",RTV 2
@@ -83,6 +63,34 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd
 http://210.210.155.35/qwr9ew/s/s105/02.m3u8
 #EXTINF:-1 group-title="INDONESIA",TV ONE 2
 https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+#EXTINF:-1 group-title="INDONESIA",DAAITV
+https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+#EXTINF:-1 group-title="INDONESIA",NET TV
+https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+#EXTINF:-1 group-title="INDONESIA",Trans TV
+https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
+#EXTINF:-1 group-title="INDONESIA",Trans7
+https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
+#EXTINF:-1 group-title="INDONESIA",ELSHINTA TV
+http://210.210.155.35/session/4c182778-8e4e-11eb-8016-b82a72d63267/qwr9ew/s/s10/index10.m3u8
+#EXTINF:-1 group-title="INDONESIA",JAKTV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/5415-jak
+#EXTINF:-1 group-title="INDONESIA",JAKTV 2
+https://liveanevia.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+#EXTINF:-1 group-title="INDONESIA",JTV [Usee]
+http://122.248.43.138:1935/ch2/myStream/chunklist_kamiselaluada.m3u8
+#EXTINF:-1 group-title="INDONESIA",MYTV
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6711-mytv
+#EXTINF:-1 group-title="INDONESIA",MYTV 2
+https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(915b425f-d5f6-4d77-9a60-857a7b14cb8b)/manifest.mpd
+#EXTINF:-1 group-title="INDONESIA",NUSANTARA TV
+https://v6.siar.us/nusantaratv/live/chunks.m3u8
+#EXTINF:-1 group-title="INDONESIA",O CHANNEL
+https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/206-ochannel
+#EXTINF:-1 group-title="INDONESIA",RRI NET
+http://36.89.47.217:11935/rrinet/live/index.m3u8
+#EXTINF:-1 group-title="INDONESIA",RRI Net 2
+http://eroz84.wap.sh/local/rri.m3u8
 #EXTINF:-1 group-title="INDONESIA",TVRI
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/6441-tvri
 #EXTINF:-1 group-title="INDONESIA",GTV
@@ -207,14 +215,6 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_en
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA",VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 group-title="INDONESIA",DAAITV
-https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
-#EXTINF:-1 group-title="INDONESIA",NET TV
-https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
-#EXTINF:-1 group-title="INDONESIA",Trans TV
-https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
-#EXTINF:-1 group-title="INDONESIA",Trans7
-https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 #EXTINF:-1 group-title="MALAYSIA",Astro AWANI
 https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream01/streamPlaylist.m3u8
 #EXTINF:-1 group-title="MALAYSIA",Astro OASIS
