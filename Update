@@ -701,6 +701,30 @@ http://210.210.155.35/qwr9ew/s/s50/index2.m3u8
 http://210.210.155.35/qwr9ew/s/s50/index.m3u8
 #EXTINF:-1 group-title="KIDS",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 group-title="SPORT LIVE",BEINSPORTS 1 FR
+http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORT LIVE",BEINSPORTS 2 FR
+http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORT LIVE",BEINSPORTS 3 FR
+http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
+#EXTINF:-1 group-title="SPORT LIVE",EUROSPORT 1
+http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT LIVE",EUROSPORT 2
+http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT LIVE",BT SPORT 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT LIVE",BT SPORT 2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT LIVE",SPORT TV 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT LIVE",SPORT TV 2
+http://77.83.117.60:8888/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT LIVE",SPORT TV 3
+http://77.83.117.60:8888/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT LIVE",SPORT TV 4
+http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1 group-title="SPORT LIVE",SPORT TV 5
+http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Футбол 1 ua HD
 https://chostv.mobie.in/choos/sports/qyt1.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Футбол 2 ua HD
@@ -857,8 +881,6 @@ https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/
 http://185.105.4.107:1935/live/Bahrain%20Sports%202/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Bahrain Sports 2 (720p)
 https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Barça TV
-http://5.255.90.184:2002/play/a01z
 #EXTINF:-1 group-title="SPORT LIVE",Bek Sports East (720p)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Bek Sports West (720p)
@@ -1193,8 +1215,6 @@ http://103.81.104.118/hls/stream16.m3u8
 http://103.81.104.118/hls/stream34.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Fox Sports 2
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",MAV TV
-https://bozztv.com/teleyupp/teleup-mavtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",WWE Network HD
 http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14404
 #EXTINF:-1 group-title="SPORT LIVE",Bein Max 1
@@ -1481,7 +1501,7 @@ https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Stadium (720p) 2
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Stadium (STIRR) (720p) 
+#EXTINF:-1 group-title="SPORT LIVE",Stadium (STIRR) (720p)
 http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Stadium (STIRR) (720p) 2
 https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
