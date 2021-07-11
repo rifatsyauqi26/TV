@@ -215,29 +215,23 @@ https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_en
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="INDONESIA",VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
-#EXTINF:-1 group-title="MALAYSIA",Astro AWANI
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream01/streamPlaylist.m3u8
-#EXTINF:-1 group-title="MALAYSIA",Astro OASIS
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-#EXTINF:-1 group-title="MALAYSIA",TV Ikim
-http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8
-#EXTINF:-1 group-title="TV DAERAH",ADI TV
+#EXTINF:-1 group-title="INDONESIA",ADI TV
 http://aditv.onlivestreaming.net/aditv/livestream/chunks.m3u8
-#EXTINF:-1 group-title="TV DAERAH",BALIKPAPAN TV
+#EXTINF:-1 group-title="INDONESIA",BALIKPAPAN TV
 http://122.248.43.138:1935/ch10/myStream/chunklist_w1318591234.m3u8
-#EXTINF:-1 group-title="TV DAERAH",Cahaya Banten TV
+#EXTINF:-1 group-title="INDONESIA",Cahaya Banten TV
 http://103.23.201.170:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="TV DAERAH",DUTA TV
+#EXTINF:-1 group-title="INDONESIA",DUTA TV
 http://thepwfamily.com/stream/dutatv.m3u8
-#EXTINF:-1 group-title="TV DAERAH",JawaPostv
+#EXTINF:-1 group-title="INDONESIA",JawaPostv
 http://122.248.43.138:1935/ch6/myStream/live.m3u8
-#EXTINF:-1 group-title="TV DAERAH",JekTv Jambi
+#EXTINF:-1 group-title="INDONESIA",JekTv Jambi
 http://122.248.43.138:1935/ch14/myStream/live.m3u8
-#EXTINF:-1 group-title="TV DAERAH",PADANG TV
+#EXTINF:-1 group-title="INDONESIA",PADANG TV
 http://122.248.43.138:1935/ch16/myStream/chunklist_w1265493922.m3u8
-#EXTINF:-1 group-title="TV DAERAH",SAKTI TV
+#EXTINF:-1 group-title="INDONESIA",SAKTI TV
 http://video2.onlivestreaming.net/saktitv/livestream/chunks.m3u8
-#EXTINF:-1 group-title="TV DAERAH",TVKU
+#EXTINF:-1 group-title="INDONESIA",TVKU
 http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title="RELIGI",AJWA
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/7464-ajwa
@@ -317,14 +311,20 @@ https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd
 http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
 #EXTINF:-1 group-title="HBO And FOX",FOX FAMILY MOVIES [VSN+]
 https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
-#EXTINF:-1 group-title="KOREA",K+ [Dens]
+#EXTINF:-1 group-title="HIBURAN",K+ [Dens]
 http://210.210.155.35/uq2663/h/h08/01.m3u8
-#EXTINF:-1 group-title="KOREA",SONY ONE
+#EXTINF:-1 group-title="HIBURAN",SONY ONE
 http://210.210.155.35/uq2663/h/h143/01.m3u8
-#EXTINF:-1 group-title="KOREA",TVN Movie
+#EXTINF:-1 group-title="HIBURAN",TVN Movie
 http://185.180.221.194:8278/streams/d/Tvnmovie/playlist.m3u8
-#EXTINF:-1 group-title="KOREA",Wakuwaku
+#EXTINF:-1 group-title="HIBURAN",Wakuwaku
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd
+#EXTINF:-1 group-title="HIBURAN",Astro AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream01/streamPlaylist.m3u8
+#EXTINF:-1 group-title="HIBURAN",Astro OASIS
+http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
+#EXTINF:-1 group-title="HIBURAN",TV Ikim
+http://edge.vediostream.com/abr/tvikim/live/tvikim_360p/chunks.m3u8
 #EXTINF:-1 group-title="HIBURAN",Entertainment [VSN+]
 https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 #EXTINF:-1 group-title="HIBURAN",Infotainment [VSN+]
@@ -4145,9 +4145,9 @@ http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/327.mp4
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/328.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Death of Me (2020)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/340.mp4
-#EXTINF:-1 group-title="VOD 2000 - 2017",Drag Me to Hell (2009)
+#EXTINF:-1 group-title="VOD MOVIES",Drag Me to Hell (2009)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/341.mp4
-#EXTINF:-1 group-title="VOD 2000 - 2017",Pet (2016)
+#EXTINF:-1 group-title="VOD MOVIES",Pet (2016)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/344.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Seized (2020)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/345.mp4
@@ -4155,7 +4155,7 @@ http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/345.mp4
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/346.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Code of Thieves (2020)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/425.mp4
-#EXTINF:-1 group-title="VOD 2018 - 2019",Antidote (2018)
+#EXTINF:-1 group-title="VOD MOVIES",Antidote (2018)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6644.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Ravers (2020)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6650.mp4
@@ -4169,7 +4169,7 @@ http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6665.mp4
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6669.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Cut Throat City (2020)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6671.mp4
-#EXTINF:-1 group-title="VOD 2000 - 2017",Kick (2014)
+#EXTINF:-1 group-title="VOD MOVIES",Kick (2014)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6675.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Love and Monsters (2020)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6676.mp4
@@ -4187,9 +4187,9 @@ http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6690.mp4
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7018.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Run (2020)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7021.mp4
-#EXTINF:-1 group-title="VOD 2000 - 2017",The Last Warrior (2017)
+#EXTINF:-1 group-title="VOD MOVIES",The Last Warrior (2017)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7023.mp4
-#EXTINF:-1 group-title="VOD 2018 - 2019",Alien Invasion (2018)
+#EXTINF:-1 group-title="VOD MOVIES",Alien Invasion (2018)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7119.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Cagefighter: Worlds Collide (2020)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7122.mp4
