@@ -713,8 +713,6 @@ http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",BT SPORT 1
 http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",BT SPORT 2
-http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",SPORT TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",SPORT TV 2
@@ -727,22 +725,12 @@ http://77.83.117.60:8888/02_SPORTTV_4_720p/chunklist.m3u8
 http://77.83.117.60:8888/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Футбол 1 ua HD
 https://chostv.mobie.in/choos/sports/qyt1.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Футбол 2 ua HD
-https://chostv.mobie.in/choos/sports/qyt2.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Футбол 3 ua HD
-https://chostv.mobie.in/choos/sports/qyt3.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",BeinSport 1 FR
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",beIN Sports 1 Asia
 https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #EXTINF:-1 group-title="SPORT LIVE",Astro Supersport 2
 http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",ABU DHABI SPORTS 3 2
 http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/eroz_brebes.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Eurosport 1
-https://chostv.mobie.in/choos/sports/euro1.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Eurosport 2 HD
-https://chostv.mobie.in/choos/sports/euro2.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",FoxSport News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",FOX SPORTS 1 TH
@@ -761,34 +749,12 @@ https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",ru sport tv
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",skynetsportshd
-https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",skynetsports1
-https://www.livedoomovie.com/03_skynetsport1_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",skynetsports2
-https://www.livedoomovie.com/03_skynetsport2_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",skynetsports3
-https://www.livedoomovie.com/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",skynetsports4
-https://www.livedoomovie.com/03_skynetsport4_480p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Sport TV 1 HD
 https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",SPORT TV 1 HD 2
-http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sport TV 5
-https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Sports TV
 http://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",STADIUM
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",TrueSport HD
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",TrueSport HD2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",TrueSport HD3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",TrueSport HD4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",QazSport HD
 http://46.34.209.242/btv/SWM/Qazsport_HD/Qazsport_HD_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",5 HD
@@ -797,38 +763,10 @@ http://91.126.141.13:1935/live/61/playlist.m3u8
 http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",CANAL+SPORT 1
 http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",SETANTA SPORTS HD
-https://chostv.mobie.in/choos/sports/stantahd.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",skynetsports5
-https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",skynetsports6
-https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sport TV 2
-https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sport TV 3
-https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sport TV 4
-https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",True Premier HD 1
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",True Premier HD 2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",True Premier HD 3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",True Premier HD 4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",True Premier HD 5
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",BeIN 1
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #EXTINF:-1 group-title="SPORT LIVE",beIN SPORTS XTRA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=false&paln=&includeExtendedEvents=false&architecture=&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&appName=web
 #EXTINF:-1 group-title="SPORT LIVE",EGG NETWORK
 http://edge.linknetott.swiftserve.com:80/channelgroup5/cg523production/ch319/02.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",FOX SPORT
-http://185.180.221.194:8278/streams/d/Foxsports/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",FOX SPORT 2
-https://liveanevia.mncnow.id/live/eds/FoxSportss1s/sa_dash_vmx/FoxSportss1s.mpd
 #EXTINF:-1 group-title="SPORT LIVE",FOX SPORT 3
 https://liveanevia.mncnow.id/live/eds/FoxSportss2s/sa_dash_vmx/FoxSportss2s.mpd
 #EXTINF:-1 group-title="SPORT LIVE",FOX SPORT 4
@@ -843,8 +781,6 @@ https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Redbull TV 2
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?id=eroz_brebes.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",TVRI SPORT HD
-http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",UFC 2
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?id=eroz_brebes.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Fox Sports 1
@@ -861,7 +797,7 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",ACCDN
 https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ACCDN
+#EXTINF:-1 group-title="SPORT LIVE",ACCDN 2
 https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
@@ -877,16 +813,10 @@ http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",ATG
 https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Bahrain Sports 2
-http://185.105.4.107:1935/live/Bahrain%20Sports%202/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Bahrain Sports 2 (720p)
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Bek Sports East (720p)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Bek Sports West (720p)
 https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Best Cable Sports Perú (720p) [Not 24/7]
-https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Canal Motor (720p)
 http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Captital OTB Betting (720p)
@@ -907,8 +837,6 @@ https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Edge Sports (1080p)
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",EDGESport (1080p)
-https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Eleven Sports (720p)
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Eleven Sports 1 (Portugal) (1080p)
@@ -925,8 +853,6 @@ http://stream2.grandma.fit/fs2.m3u8
 http://164.68.124.111/espn2.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",ESPN 2 (360p)
 http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Esport3 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Esport3 (1080p)
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Fight Network
@@ -957,8 +883,6 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://insight-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",KBP SPORTS (720p)
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",KOK Fights (720p)
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",LN Sports
 https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",LookSport (404p)
@@ -987,8 +911,6 @@ https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ORF Sport+ (540p) [Geo-blocked]
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Outside TV
 https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Ovación TV (Lima) [Not 24/7]
@@ -999,10 +921,6 @@ https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/play
 https://pac12-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",PAC12 Insider (1080p)
 https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Action Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Action Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5db867744f229f0009266784/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORT LIVE",Pluto TV Action Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ac8588734f8000823b7de/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 group-title="SPORT LIVE",Pluto TV All Elite Wrestling
@@ -1017,10 +935,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f9
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORT LIVE",Pluto TV Fight
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Fight
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d659fd87eb3a2717afc9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Fight
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bda9fd87eb3a2717cce0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORT LIVE",Pluto TV FOX Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORT LIVE",Pluto TV Fox Sports pluto (720p)
@@ -1029,18 +943,12 @@ https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 group-title="SPORT LIVE",Pluto TV GLORY Kickboxing
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Glory Kickboxing
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad8d6f5e738977e2c310949/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Glory Kickboxing
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9be1be738977e2c312134/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORT LIVE",Pluto TV IMPACT Wrestling
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORT LIVE",Pluto TV MLB
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORT LIVE",Pluto TV MLS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV MLS
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORT LIVE",Pluto TV NFL Channel
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORT LIVE",Pluto TV NFL Network
@@ -1049,10 +957,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07e
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORT LIVE",Pluto TV Sports
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ad9bb941b95267e225e59c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d7677fa2ec536ce1d587eeb/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 #EXTINF:-1 group-title="SPORT LIVE",Red Bull TV (1080p)
 https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Rede Globo (720p)
@@ -1085,18 +989,10 @@ https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Sports Grid (720p)
 https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sports Grid
-https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sports Grid
-https://sportsgrid-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sports Grid
-https://sportsgrid-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Sports TV Plus (1080p)
 https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Sportskool TV (720p)
 https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",SportsMax
-https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",ST-TV | Edge Sports (1080p)
 https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",ST-TV | Fuel TV (1080p)
@@ -1117,12 +1013,8 @@ https://d179m5eq83yziw.cloudfront.net/live3/unbeaten_tv/bitrate1-clear.isml/mani
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Stadium (720p)
 https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Stadium (720p)
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Stadium (STIRR) (720p)
 http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Stadium (STIRR) (720p)
-https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",STIRR Sports (720p)
 https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Surf Now TV
@@ -1147,8 +1039,6 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Türkmenistan Sport
 http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Türkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Unbeaten
 https://unbeaten-roku.amagi.tv/hls/amagi_hls_data_inverleig-unbeaten-roku/CDN/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Wired2Fish
@@ -1199,24 +1089,6 @@ http://103.157.237.18:8000/play/630
 http://103.157.237.18:8000/play/122
 #EXTINF:-1 group-title="SPORT LIVE",Ten sports
 http://221.120.204.4/TEN-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sony Ten 1 HD (2)
-http://103.81.104.118/hls/stream40.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sony Ten 2 HD (2)
-http://103.81.104.118/hls/stream39.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",PTV Sports
-http://103.81.104.118/hls/stream11.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Star Sports Select HD 1
-http://103.81.104.118/hls/stream12.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Star Sports 1
-http://103.81.104.118/hls/stream15.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Star Sports HD 2
-http://103.81.104.118/hls/stream16.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Ten Cricket
-http://103.81.104.118/hls/stream34.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Fox Sports 2
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",WWE Network HD
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/14404
 #EXTINF:-1 group-title="SPORT LIVE",Bein Max 1
 http://7.anbdaouras.xyz/live/9889900/index.m3u8?ZaNa_iptv.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Bein Max 2
@@ -1249,18 +1121,10 @@ http://str.smartip-tv.net:8888/BEIN_SPORT_5_HD/index.m3u8?token=test
 http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8?hubtvapp.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",[$]BEIN SPORTS 7HD
 http://str.smartip-tv.net:8888/BEIN_SPORT_7_HD/index.m3u8?token=test
-#EXTINF:-1 group-title="SPORT LIVE",BEIN SPORTS 1 Fr HD
-http://31.220.41.90:8081/live/fr-beinsport1.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",BEIN SPORTS 2 Fr HD
-http://31.220.41.90:8081/live/fr-beinsport2.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",BEIN SPORTS 3 fr HD
-http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",beIN Sports 1 Max
 http://7.anbdaouras.xyz/live/9889900/index.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",beIN Sports 2 Max
 http://4.amroutras.xyz/live/00002500/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",beIN Sports 1
-https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd
 #EXTINF:-1 group-title="SPORT LIVE",FOX Sports HD
 http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd
 #EXTINF:-1 group-title="SPORT LIVE",FOX Sports 2 HD
@@ -1277,302 +1141,124 @@ http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/47.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",RTA Sports
 http://212.47.252.54/hls/stream.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ACC Network (720p)
-https://120sports-accdn-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ACCDN
-https://120sports-accdn-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ACCDN 2
-https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/c.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Adventure Sports Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Adventure Sports Network (XUMO)
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",All Sports (1080p)
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",All Sports
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Arryadia (360p)
-http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ATG (432p)
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ATG
-https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Bahrain Sports 2
-http://185.105.4.107:1935/live/Bahrain%20Sports%202/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Bahrain Sports 2 (720p)
-https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Barça TV
 http://5.255.90.184:2002/play/a01z
 #EXTINF:-1 group-title="SPORT LIVE",EPL1
 https://www.livedoomovie.com/02_epl1_720p_UK/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",EPL2
 https://www.livedoomovie.com/02_epl2_720p_UK/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Bek Sports East (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Bek Sports West (720p)
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Best Cable Sports Perú (720p) [Not 24/7]
-https://live.siete.us/bestcablesports/bestcablesports/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Canal Motor (720p)
-http://digicom.hls.iptvdc.com/canalmotor/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Captital OTB Betting (720p)
-https://d2up1hmow19bcd.cloudfront.net/livecf/liveracing/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Choppertown (STIRR) (720p)
-https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Claro Sports
-http://209.91.213.10:8088/play/a024
-#EXTINF:-1 group-title="SPORT LIVE",Cycle World
-https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",DD Sports (576p)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Edge Sport (1080p)
-https://edgesport-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Edge Sport (US) (720p)
-https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Edge Sports
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Edge Sports (1080p)
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",EDGESport (1080p)
 https://csm-e-stv.tls1.yospace.com/csm/live/195300285.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Eleven Sports (720p)
-https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Eleven Sports 1 (Portugal) (1080p)
-http://185.236.229.21:9981/play/a05v
-#EXTINF:-1 group-title="SPORT LIVE",Eleven Sports 4 (Portugal) (1080p)
-http://185.236.229.21:9981/play/a05x
-#EXTINF:-1 group-title="SPORT LIVE",Eleven Sports 5 (Portugal) (1080p)
-http://185.236.229.21:9981/play/a05y
-#EXTINF:-1 group-title="SPORT LIVE",ESPN (360p)
-http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ESPN (720p)
-http://stream2.grandma.fit/fs2.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ESPN 2 (720p)
-http://164.68.124.111/espn2.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ESPN 2 (360p)
-http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Esport3 (1080p)
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Esport3 (1080p) 2
-https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",FreeSports (1080p)
-https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",FTF (For the Fans) (720p)
-https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Fuel TV (720p)
-https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Fuel TV (1080p)
-https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",GEM Fit [Geo-blocked]
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",GRVTY
-https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Horizon Sports
-https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",IMPACT! Wrestling
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Insight TV
-https://insight-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",LN Sports
-https://d39jokgb64z0et.cloudfront.net/dist/localnow/86/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",LookSport (404p)
-https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="SPORT LIVE",LookSport Plus (404p)
-https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=
-#EXTINF:-1 group-title="SPORT LIVE",MavTV (720p)
-https://mavtv-mavtvglobal-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",MavTv (STIRR) (720p)
-https://dai.google.com/linear/hls/event/YoBM0ae5Q62TPdrfFHS4RQ/master.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",MavTV (STIRR)
-https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",MLB Network
-https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",MMA Junkie
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",MMN
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/low/c.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Monterrico TV (1080p)
-http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Monterrico TV
-https://ed1ov.live.opencaster.com/jcpstream_hd720/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Monterrico TV (720p) [Not 24/7]
-https://www.opencaster.com/resources/hls_stream/hipodromojcp2.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",New Japan Pro Wrestling World
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ORF Sport+ (540p) [Geo-blocked]
-https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Outside TV
-https://outsidetv-outside-localnow.amagi.tv/localnow.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Ovación TV (Lima) [Not 24/7]
-https://5c3fb01839654.streamlock.net:1963/iptvovacion1/liveovacion1tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",PAC 12
-https://pac12-redbox.amagi.tv/hls/amagi_hls_data_pac-12AAA-pac12-redbox/CDN/playlist.m3u8?deviceid=&is_lat=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 group-title="SPORT LIVE",Pac 12 Insider
-https://pac12-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",PAC12 Insider (1080p)
-https://pac12-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Action Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV All Elite Wrestling
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Bellator MMA
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Big Sky Conference
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59641d9173ac1fec2fc01f17/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Boxing
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Combate World
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Fight
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV FOX Sports
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Fox Sports pluto (720p)
-https://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=3fab7580-8b86-11e8-a44b-996a399dacd8&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=false
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV Fútbol Para Fans
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV GLORY Kickboxing
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV IMPACT Wrestling
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV MLB
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV MLS 2
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV NFL Channel
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV NFL Network
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="SPORT LIVE",Pluto TV PGA TOUR
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5de94dacb394a300099fa22a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-#EXTINF:-1 group-title="SPORT LIVE",Red Bull TV (1080p)
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Rede Globo (720p)
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Ring of Honor Wrestling
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",San Marino RTV Sport (240p)
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Ski TV (1080p)
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sport 1 [Not 24/7]
-https://95-213-224-183.livesports24.online/sport1ua.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sports Channel Network
-https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sports Grid
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumosportsgrid/CDN/master.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sports Grid (720p)
-https://playout4multirtmp.tulix.tv/live6/Stream1/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sports Grid 1
-https://sportsgrid-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sports Grid 2
-https://sportsgrid-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sports Grid 3
-https://sportsgrid-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sports TV Plus (1080p)
-https://dai.google.com/linear/hls/event/9FKrAqCfRvGfn3tPbVFO-g/master.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sportskool TV (720p)
-https://a.jsrdn.com/broadcast/fabeab4b08/+0000/c.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",SportsMax
-https://ch.iptvmate.net/d632f569730eaeaee6f99d050e1fb9e0.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ST-TV | Edge Sports (1080p)
-https://edgesports-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ST-TV | Fuel TV (1080p)
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=516
-#EXTINF:-1 group-title="SPORT LIVE",ST-TV | Hard Knocks (1080p)
-https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ST-TV | Pac12 Insider (720p)
-https://pac12-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ST-TV | Poker Night In America (720p)
-https://rushstreet-sportstribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ST-TV | SKI TV (1080p)
-https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ST-TV | SportsGrid (1080p)
-https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ST-TV | Unbeaten Combat (720p)
-https://d179m5eq83yziw.cloudfront.net/live3/unbeaten_tv/bitrate1-clear.isml/manifest.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",ST-TV | World Poker Tour (1080p)
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Stadium (720p)
-https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Stadium (720p) 2
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Stadium (STIRR) (720p)
-http://stadium.sinclair.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Stadium (STIRR) (720p) 2
-https://dai.google.com/linear/hls/event/0jRU1DBXSW6a_TFheLfAUQ/master.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",STIRR Sports (720p)
-https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Surf Now TV
-https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/1e05afbf-0234-4d61-9406-20bf6719fce5/3.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Tennis Channel HD
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",like Gecko) Chrome/76.0.3809.25 Safari/537.36
-https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",PremierHD2
-https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",PremierHD3
-https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",PremierHD4
-https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",PremierHD5
-https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",SPORT5
-https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",SPORT7
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",SPORT1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",SPORT2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",SPORT3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",SPORT4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",tv2 - Sport (720p)
-https://ws31-hls-live.akamaized.net/out/u/1416253.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",TVRI Sport HD
-http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",TVS Boxing (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",TVS Classic Sports (720p)
-http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",TVS Sports (960p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",TVS Sports Bureau (720p)
-https://rpn1.bozztv.com/36bay2/gusa-tvssportsbureau/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",TVS Turbo (360p)
-https://rpn1.bozztv.com/36bay2/gusa-tvsturbo/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",TVS Women Sports (480p)
-https://rpn1.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Türkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Türkmenistan Sport 2
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Unbeaten
-https://unbeaten-roku.amagi.tv/hls/amagi_hls_data_inverleig-unbeaten-roku/CDN/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Wired2Fish
-https://linear-80.frequency.stream/dist/localnow/80/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",World of Freesports (720p)
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",World of Freesports
-https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",World Poker Tour (1080p)
-https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Матч ТВ (576p) [Not 24/7]
-https://95-213-224-188.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Матч ТВ
-https://uiptv.do.am/1ufc/000000003/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Матч! Игра
-https://s1.idata.uz/stch_temp19/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Футбол 1 [Not 24/7]
-https://95-213-224-183.livesports24.online/uafootballua1.m3u8
+#EXTINF:-1 ,BEINSPORTS HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110702.ts
+#EXTINF:-1 ,beIN SPORTS MAX 1 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110703.ts
+#EXTINF:-1 ,beIN SPORTS MAX 2 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110704.ts
+#EXTINF:-1 ,beIN SPORTS MAX 3 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110705.ts
+#EXTINF:-1 ,beIN SPORTS MAX 4 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110706.ts
+#EXTINF:-1 ,beIN SPORTS MAX 5 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110707.ts
+#EXTINF:-1 ,beIN SPORTS MAX 6 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110708.ts
+#EXTINF:-1 ,beIN SPORTS 01 PREMIUM HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110709.ts
+#EXTINF:-1 ,beIN SPORTS 02 PREMIUM HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110710.ts
+#EXTINF:-1 ,beIN SPORTS 03 PREMIUM HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110711.ts
+#EXTINF:-1 ,beIN SPORTS 01 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110712.ts
+#EXTINF:-1 ,beIN SPORTS 03 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110714.ts
+#EXTINF:-1 ,beIN SPORTS 04 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110715.ts
+#EXTINF:-1 ,beIN SPORTS 05 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110716.ts
+#EXTINF:-1 ,beIN SPORTS 06 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110717.ts
+#EXTINF:-1 ,beIN SPORTS 07 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110718.ts
+#EXTINF:-1 ,beIN SPORTS 1 EN HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110719.ts
+#EXTINF:-1 ,beIN SPORTS 2 EN HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110720.ts
+#EXTINF:-1 ,beINSPORTS PREMIUM 1
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110727.ts
+#EXTINF:-1 ,beINSPORTS PREMIUM  2
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110728.ts
+#EXTINF:-1 ,beINSPORTS 4
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110733.ts
+#EXTINF:-1 ,beIN SPORTS MAX 1 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110758.ts
+#EXTINF:-1 ,beIN SPORTS MAX 2 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110759.ts
+#EXTINF:-1 ,beIN SPORTS MAX 3 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110760.ts
+#EXTINF:-1 ,beIN SPORTS MAX 4 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110761.ts
+#EXTINF:-1 ,beIN SPORTS MAX 5 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110762.ts
+#EXTINF:-1 ,beIN SPORTS MAX 6 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110763.ts
+#EXTINF:-1 ,beIN SPORTS 01 PREMIUM FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110764.ts
+#EXTINF:-1 ,beIN SPORTS 02 PREMIUM FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110765.ts
+#EXTINF:-1 ,beIN SPORTS 03 PREMIUM FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110766.ts
+#EXTINF:-1 ,beIN SPORTS 01 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110767.ts
+#EXTINF:-1 ,beIN SPORTS 02 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110768.ts
+#EXTINF:-1 ,beIN SPORTS 03 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110769.ts
+#EXTINF:-1 ,beIN SPORTS 04 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110770.ts
+#EXTINF:-1 ,beIN SPORTS 05 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110771.ts
+#EXTINF:-1 ,beIN SPORTS 06 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110772.ts
+#EXTINF:-1 ,beIN SPORTS 07 FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110773.ts
+#EXTINF:-1 ,beIN SPORTS 1 EN FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110774.ts
+#EXTINF:-1 ,beIN SPORTS 2 EN FHD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110775.ts
+#EXTINF:-1 ,beIN SPORTS MAX 1 4K
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110783.ts
+#EXTINF:-1 ,beIN SPORTS MAX 2 4K
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110784.ts
+#EXTINF:-1 ,beIN SPORTS 4 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110809.ts
+#EXTINF:-1 ,beIN SPORTS 5 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110810.ts
+#EXTINF:-1 ,beIN SPORTS 7 SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110812.ts
+#EXTINF:-1 ,BEIN NEWS SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110813.ts
+#EXTINF:-1 ,BEIN SPORTS SD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110814.ts
+#EXTINF:-1 ,TR: BEIN SPORTS MAX 1 HD TR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110651.ts
+#EXTINF:-1 ,TR: BEINSPORTS 1 HD TR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110653.ts
+#EXTINF:-1 ,TR: BEINSPORTS 1 HD TR YEDEK
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110654.ts
+#EXTINF:-1 ,TR: BEINSPORTS 2 HD TR YEDEK
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110658.ts
+#EXTINF:-1 ,TR: BEINSPORTS 3 HD TR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110659.ts
+#EXTINF:-1 ,TR: BEINSPORTS 3 HD TR YEDEK
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110660.ts
+#EXTINF:-1 ,TR: BEINSPORTS 4 HD TR
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110661.ts
+#EXTINF:-1 ,TR: BEINSPORTS HABER HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110662.ts
+#EXTINF:-1 ,TR: TIVIBU SPOR 3 HD
+http://ottin.me:8000/live/salam_000946/ImHfNpi5/110665.ts
 #EXTINF:-1 group-title="KNOWLEDGE",A.F.N
 http://185.180.221.194:8278/streams/d/Afc/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Animal Planet
