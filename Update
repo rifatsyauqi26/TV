@@ -13,6 +13,8 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/eroz_brebes.m3u8
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd
 #EXTINF:-1 group-title="INDONESIA",MNC
 https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/870-mnc
+#EXTINF:-1 group-title="INDONESIA",MNC 1
+http://gpc.my.id/vidio/mnc.m3u8
 #EXTINF:-1 group-title="INDONESIA",MNC 2
 http://eroz84.wap.sh/local/mnc.m3u8
 #EXTINF:-1 group-title="INDONESIA",MNC 3
@@ -20,7 +22,7 @@ https://liveanevia.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTINF:-1 group-title="INDONESIA",MNC 4
 http://live.unregister.xyz/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1537200=7-mp4a_64000_eng=2.m3u8
 #EXTINF:-1 group-title="INDONESIA",RCTI
-https://iptv--iptv.repl.co/streamlink?url=https://www.vidio.com/live/665-rcti
+http://gpc.my.id/vidio/rcti.m3u8
 #EXTINF:-1 group-title="INDONESIA",RCTI 2
 http://eroz84.wap.sh/local/rcti.m3u8
 #EXTINF:-1 group-title="INDONESIA",RCTI 3
@@ -70,6 +72,8 @@ https://liveanevia.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 #EXTINF:-1 group-title="INDONESIA",Trans TV
 https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd
 #EXTINF:-1 group-title="INDONESIA",Trans7
+http://gpc.my.id/vidio/trans7.m3u8
+#EXTINF:-1 group-title="INDONESIA",Trans7 2
 https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd
 #EXTINF:-1 group-title="INDONESIA",ELSHINTA TV
 http://210.210.155.35/session/4c182778-8e4e-11eb-8016-b82a72d63267/qwr9ew/s/s10/index10.m3u8
@@ -115,14 +119,8 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist
 https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(d2f582be-366c-4cce-9476-1b524dc854e9)/index.m3u8
 #EXTINF:-1 group-title="INDONESIA",Sea ToDay
 https://cdn-telkomsel-01.akamaized.net:443/Content/HLS/Live/channel(9ce3f094-4044-467e-84b7-b684a49571d5)/index.m3u8
-#EXTINF:-1 group-title="INDONESIA",DAAI TV
-http://eroz84.wap.sh/local/daai.m3u8
-#EXTINF:-1 group-title="INDONESIA",TEGAR TV
-http://eroz84.wap.sh/local/jitv.m3u8
 #EXTINF:-1 group-title="INDONESIA",TVKU
 http://eroz84.wap.sh/local/tvku.m3u8
-#EXTINF:-1 group-title="INDONESIA",NUSANTARA
-http://eroz84.wap.sh/local/nusantara.m3u8
 #EXTINF:-1 group-title="INDONESIA",Jek TV
 http://122.248.43.138:1935/ch14/myStream/index.m3u8
 #EXTINF:-1 group-title="INDONESIA",Inspira TV
@@ -263,8 +261,6 @@ http://119.235.249.58:1935/niagatv/live/playlist.m3u8
 http://210.210.155.35/session/0500beca-b048-11ea-90d2-8210bae640b6/qwr9ew/s/s14/02.m3u8
 #EXTINF:-1 group-title="RELIGI",TV9
 http://wowza60.indostreamserver.com:1935/tv9/live/chunklist.m3u8
-#EXTINF:-1 group-title="RELIGI",Wesal TV
-http://wowza58.indostreamserver.com:1935/wesaltv/live/playlist.m3u8
 #EXTINF:-1 group-title="RELIGI",U CHANNEL
 http://119.235.249.58:1935/uchannel/live/chunklist.m3u8
 #EXTINF:-1 group-title="HBO And FOX",CINEMAX
@@ -355,8 +351,6 @@ http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 #EXTINF:-1 group-title="HIBURAN",AXN
 http://210.210.155.35/session/111e4104-b09e-11ea-b1f3-c81f66f89318/uq2663/h/h141/index.m3u8
-#EXTINF:-1 group-title="HIBURAN",B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 group-title="HIBURAN",BLACK CINEMA
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/997452/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceType=web&deviceMake=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&deviceDNT=0&deviceModel=Chrome&userId=&appName=&app_name=&appStoreUrl=
 #EXTINF:-1 group-title="HIBURAN",BLUE ANT ENT [Dens]
@@ -539,8 +533,6 @@ https://4ea7abcc97144832b81dc50c6e8d6330.mediatailor.us-east-1.amazonaws.com/v1/
 https://c.mjh.nz/101002210222/
 #EXTINF:-1 group-title="KIDS",Ameba
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuameba/CDN/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Atfal Wa Mawaheb
-https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Battery Pop (XUMO)
 http://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
 #EXTINF:-1 group-title="KIDS",Boomerang
@@ -711,8 +703,6 @@ http://31.220.41.90:8081/live/fr-beinsport3.stream/chunks.m3u8
 http://77.83.117.60:8888/02_EUROHD1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",EUROSPORT 2
 http://77.83.117.60:8888/02_EUROHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",BT SPORT 1
-http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",SPORT TV 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",SPORT TV 2
@@ -827,8 +817,6 @@ https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
 http://209.91.213.10:8088/play/a024
 #EXTINF:-1 group-title="SPORT LIVE",Cycle World
 https://a.jsrdn.com/broadcast/3e5befe5dd/+0000/high/c.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",DD Sports (576p)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Edge Sport (1080p)
 https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Edge Sport (US) (720p)
@@ -869,8 +857,6 @@ https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 https://eleven-rebroadcast-samsung.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Fuel TV (720p)
 https://fueltv-fueltv-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Fuel TV (1080p)
-https://fueltv-fueltv-8-fr.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",GEM Fit [Geo-blocked]
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",GRVTY
@@ -981,8 +967,6 @@ https://www.livedoomovie.com/03_skynetsport5_480p/chunklist.m3u8
 https://www.livedoomovie.com/03_skynetsport6_480p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",skynetsport
 https://www.livedoomovie.com/03_skynetsporthd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT LIVE",Sport 1 [Not 24/7]
-https://95-213-224-183.livesports24.online/sport1ua.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Sports Channel Network
 https://vod365-sports-channel-network-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="SPORT LIVE",Sports Grid
@@ -1207,30 +1191,6 @@ http://ottin.me:8000/live/salam_000946/ImHfNpi5/110763.ts
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/110764.ts
 #EXTINF:-1 ,beIN SPORTS 02 PREMIUM FHD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/110765.ts
-#EXTINF:-1 ,beIN SPORTS 03 PREMIUM FHD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110766.ts
-#EXTINF:-1 ,beIN SPORTS 01 FHD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110767.ts
-#EXTINF:-1 ,beIN SPORTS 02 FHD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110768.ts
-#EXTINF:-1 ,beIN SPORTS 03 FHD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110769.ts
-#EXTINF:-1 ,beIN SPORTS 04 FHD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110770.ts
-#EXTINF:-1 ,beIN SPORTS 05 FHD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110771.ts
-#EXTINF:-1 ,beIN SPORTS 06 FHD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110772.ts
-#EXTINF:-1 ,beIN SPORTS 07 FHD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110773.ts
-#EXTINF:-1 ,beIN SPORTS 1 EN FHD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110774.ts
-#EXTINF:-1 ,beIN SPORTS 2 EN FHD
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110775.ts
-#EXTINF:-1 ,beIN SPORTS MAX 1 4K
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110783.ts
-#EXTINF:-1 ,beIN SPORTS MAX 2 4K
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110784.ts
 #EXTINF:-1 ,beIN SPORTS 4 SD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/110809.ts
 #EXTINF:-1 ,beIN SPORTS 5 SD
@@ -1251,10 +1211,6 @@ http://ottin.me:8000/live/salam_000946/ImHfNpi5/110654.ts
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/110658.ts
 #EXTINF:-1 ,TR: BEINSPORTS 3 HD TR
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/110659.ts
-#EXTINF:-1 ,TR: BEINSPORTS 3 HD TR YEDEK
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110660.ts
-#EXTINF:-1 ,TR: BEINSPORTS 4 HD TR
-http://ottin.me:8000/live/salam_000946/ImHfNpi5/110661.ts
 #EXTINF:-1 ,TR: BEINSPORTS HABER HD
 http://ottin.me:8000/live/salam_000946/ImHfNpi5/110662.ts
 #EXTINF:-1 ,TR: TIVIBU SPOR 3 HD
@@ -1317,8 +1273,6 @@ https://vod365-planet-knowledge-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 https://aenetworks-skills-thrills-1.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Bisnet Adventure 4K
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8
-#EXTINF:-1 group-title="KNOWLEDGE",Travel XP
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="KNOWLEDGE",Tech storm
 https://cdn-telkomsel-01.akamaized.net/Content/DASH/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/manifest.mpd
 #EXTINF:-1 group-title="KNOWLEDGE",DW English
@@ -1355,66 +1309,6 @@ http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s
 https://cdn-livetv-studio.metube.id/mncnews.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",Tom and Jerry (2021)
 https://cdn2ii.diebutx.com/own2hls/2020/0dfcb92a188bc7676b71c95902e2cca7/540p/index.m3u8
-#EXTINF:-1 group-title="VOD MOVIES",Project Power (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/327.mp4
-#EXTINF:-1 group-title="VOD MOVIES",The New Mutants (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/328.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Death of Me (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/340.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Drag Me to Hell (2009)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/341.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Pet (2016)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/344.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Seized (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/345.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Unhinged (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/346.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Code of Thieves (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/425.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Antidote (2018)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6644.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Ravers (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6650.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Relic (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6652.mp4
-#EXTINF:-1 group-title="VOD MOVIES",The Call (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6655.mp4
-#EXTINF:-1 group-title="VOD MOVIES",A Night of  Nightmare Radio (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6665.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Clownery (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6669.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Cut Throat City (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6671.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Kick (2014)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6675.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Love and Monsters (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6676.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Nobody Sleeps in the Woods Tonight (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6677.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Nocturne (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6678.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Psy 3: W imię zasad (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6682.mp4
-#EXTINF:-1 group-title="VOD MOVIES",The Wolf of Snow Hollow (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6689.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Villain (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6690.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Fatman (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7018.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Run (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7021.mp4
-#EXTINF:-1 group-title="VOD MOVIES",The Last Warrior (2017)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7023.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Alien Invasion (2018)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7119.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Cagefighter: Worlds Collide (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7122.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Echo Boomers (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7275.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Jiu Jitsu (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7276.mp4
-#EXTINF:-1 group-title="VOD MOVIES",Last Three Days (2020)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7277.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Vanquish (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/7f50438d6f69f10b7a8dae9fa285befb/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",Mortal Kombat (2021)
@@ -1739,8 +1633,6 @@ https://cdn2ii.diebutx.com/own2hls/2020/d5345b593d97a14898e321dfbdcbb7d8/540p/in
 https://cdn2ii.diebutx.com/own2hls/2020/4a438f729eecfb7f5b57f312533c2b39/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",The Right One (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/67303167dc0d62b40d55ac683ba38f69/540p/index.m3u8
-#EXTINF:-1 group-title="VOD MOVIES",Godzilla vs. Kong (2021)
-http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7332.mp4
 #EXTINF:-1 group-title="VOD MOVIES",The Map of Tiny Perfect Things (2021)
 https://cdn2ii.diebutx.com/own2hls/2020/021067a30fde31011709ee564e2d4c7d/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",A Quiet Place Part II
@@ -2475,8 +2367,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959708
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959710
 #EXTINF:-1 group-title="VOD MOVIES",Master Z: The Ip Man Legacy (2018)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959711
-#EXTINF:-1 group-title="VOD MOVIES",Animal World (2018)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959713
 #EXTINF:-1 group-title="VOD MOVIES",Bleeding Steel (2017)
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959714
 #EXTINF:-1 group-title="VOD MOVIES",Dragon Blade (2015)
@@ -2617,8 +2507,6 @@ https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959916
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282959974
 #EXTINF:-1 group-title="VOD MOVIES",>>>>> Servant Season 1 <<<<<
 https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960170
-#EXTINF:-1 group-title="VOD MOVIES",Batman: The Dark Knight (2008)
-https://m3u-editor.com/serve/a8ec1290-a995-11eb-b39c-89399403f5d2/282960182
 #EXTINF:-1 group-title="VOD MOVIES",Hanum & Rangga: Faith & The City (2018)
 http://srv28.nf21.net/files/11-2019-03-07-8575570eddbaea877dd7dce2a6a28d20.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Bodyguard Ugal-Ugalan (2018)
