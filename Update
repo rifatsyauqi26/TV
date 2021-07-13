@@ -499,6 +499,8 @@ https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
 https://liveanevia.mncnow.id/live/eds/DisneyJunior-HD/sa_dash_vmx/DisneyJunior-HD.mpd
 #EXTINF:-1 group-title="KIDS",DISNEY JUNIOR [ID] [VSN+] 2
 http://185.180.221.194:8278/streams/d/Disneyjr/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",DISNEY JUNIOR [ID] [VSN+] 3
+http://iptv.tvmalaysia.cc:80/penang172/penang172/7197
 #EXTINF:-1 group-title="KIDS",DISNEY CHANNEL [ID] [VSN+]
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd
 #EXTINF:-1 group-title="KIDS",DISNEY CHANNEL [ID] [VSN+] 2
@@ -2629,6 +2631,126 @@ https://archive.org/download/sdf86g54sd5314as65f4deg864sd/sdf86g54sd5314as65f4de
 https://archive.org/download/f4de4f56df1e56f4we8f4we4f/f4de4f56df1e56f4we8f4we4f.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Asia
 https://archive.org/download/sd45fsd5gf48ef4as5d4f/sd45fsd5gf48ef4as5d4f.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Gemerlapan (1997)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6980.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Hilang Akal (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6981.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Hingga Hujung Nyawa (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6982.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Mon dan Jin Pakai Toncit (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6983.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Isteriku CEO ( 2018 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6984.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Jebat (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6985.mkv
+#EXTINF:-1 group-title="VOD MOVIES",Jejaka Terhangat (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6986.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Kalut Nak Raya (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6987.mp4
+#EXTINF:-1 group-title="VOD MOVIES",7 Perhentian (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6988.mp4
+#EXTINF:-1 group-title="VOD MOVIES",15 Puasa (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6989.mp4
+#EXTINF:-1 group-title="VOD MOVIES",16 Puasa (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6990.mp4
+#EXTINF:-1 group-title="VOD MOVIES",17 Puasa (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6991.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Anak Perjanjian Syaitan (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6993.mkv
+#EXTINF:-1 group-title="VOD MOVIES",Baik Punya Cilok (2005)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6994.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Banglasia 2.0 (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6995.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Biar Betul (2004)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6996.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Budok Kuba (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6999.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cinta Paling Agung (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7000.mkv
+#EXTINF:-1 group-title="VOD MOVIES",Cuci (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7001.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Gadoh (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7003.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Kimchi Untuk Awak (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7004.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Magika (2010)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7005.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Paku Pontianak (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7007.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Pisau Cukur (2009)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7008.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Putera (1994)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7009.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Saka Zain Jusoh (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7010.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Sayang Suria (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7011.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Sekali Lagi (2011)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7012.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Simfoni Duniaku (1994)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7013.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Sinaran (2015)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7014.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Surga Yang Tak Dirindukan 2 (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7015.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Tempatkan Dia Di Syurga ( 2010 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7016.mp4
+#EXTINF:-1 group-title="VOD MOVIES",V3: Samseng Jalanan (2010)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7017.mp4
+#EXTINF:-1 group-title="Action",Fatman (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7018.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Kelaster (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7020.mkv
+#EXTINF:-1 group-title="VOD MOVIES",Mama Tak Akan Sama
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7090.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Bini Aku Dari Neraka Raya (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7093.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Bukan Cerita Cinta Kita (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7094.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cinta Sticky Note (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7095.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Cruise Cinta (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7096.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Hantu Rumah Sakit Jiwa (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7097.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Iman Ke Syurga (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7099.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Istanbul Aku Datang! (2012)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7100.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Kerantung (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7101.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Khalifahkan Aku
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7102.mp4
+#EXTINF:-1 group-title="VOD MOVIES",KL Special Force (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7103.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Lamaran Perfect (2018)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7104.mp4
+#EXTINF:-1 group-title="VOD MOVIES",PONTIANAK DAN DOT DOT (2016)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7110.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Dalil Cinta ( 2010 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7002.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Laskar Pelangi 2: Edensor (2013)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7105.mp4
+#EXTINF:-1 group-title="VOD MOVIES",10 Tips Tipu Bini (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7308.mkv
+#EXTINF:-1 group-title="VOD MOVIES",18 Puasa Di Kampung Pisang
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7334.mkv
+#EXTINF:-1 group-title="VOD MOVIES",Kampong Pisang Musikal Raya Istimewa (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/8976.mp4
+#EXTINF:-1 group-title="VOD MOVIES",The Other Side of Hope (2017)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6686.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Pasal Kau!
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/6681.mkv
+#EXTINF:-1 group-title="VOD MOVIES",Aku Kaya The Movie (2003)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/423.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Manap Karaoke (2020)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/331.mp4
+#EXTINF:-1 group-title="VOD MOVIES",Man santan ( 2020 )
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/337.mp4
+#EXTINF:-1 group-title="VOD KIDS",Upin & Ipin: Keris Siamang Tunggal (2019)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7141.mkv
+#EXTINF:-1 group-title="VOD KIDS",Doraemon The Movie - Nobita Dan Kerajaan Robot
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7026.mp4
 #EXTINF:-1 group-title="VOD KIDS",LUCA (2021)
 https://cldup.com/idfkuwKug37.mp4
 #EXTINF:-1 group-title="VOD KIDS",SCOOB! (2021)
