@@ -1395,8 +1395,6 @@ https://cdn3ii.diebutx.com/own2hls/2020/2664a17549df570378bdffd02aa1702c/540p/in
 https://cdn3ii.diebutx.com/own2hls/2020/b1add098cb4ac360e177435105e4ef75/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",Master (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/005bddd2e2c6a83d922ac5e942fb5473/540p/index.m3u8
-#EXTINF:-1 group-title="VOD MOVIES",Raya and the Last Dragon (2021)
-https://cdn2ii.diebutx.com/own2hls/2020/23a92a8ccbb8f8362fb6f336ed364888/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",Sentinelle (2021)
 https://cdn2ii.diebutx.com/own2hls/2020/653c870a59331c0e1abbb05b48869eea/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",Texas Red (2021)
@@ -1955,14 +1953,10 @@ http://srv16.nf21.net/files/15-2018-07-28-def0ae28cf4df35cdc6eb54bdaff58c9.mp4
 http://srv43.nf21.net/files/19-2020-07-05-bbb5fe1cff596a0534711d79be28e97c.mp4
 #EXTINF:-1 group-title="VOD MOVIES",SPIDER-MAN: INTO THE SPIDER-VERSE (2018)
 http://srv28.nf21.net/files/11-2019-02-28-ad3bbf17b2e4db3425e76338ed3fe6e2.mp4
-#EXTINF:-1 group-title="VOD MOVIES",RALPH BREAKS THE INTERNET (2018)
-http://srv34.nf21.net/files/19-2020-05-20-b4648ae6b2ca3164ca176ddee0cdc14a.mp4
 #EXTINF:-1 group-title="VOD MOVIES",AQUAMAN (2018)
 http://srv32.nf21.net/files/10-2020-02-26-5bf1c6658678febdd51f45d24220650e.mp4
 #EXTINF:-1 group-title="VOD MOVIES",RACETIME (2019)
 http://srv28.nf21.net/files/11-2019-03-15-07f7693d7672b9b9ecc675090f7b33e2.mp4
-#EXTINF:-1 group-title="VOD MOVIES",HOW TO TRAIN YOUR DRAGON: THE HIDDEN WORLD (2019)
-http://srv37.nf21.net/files/11-2020-05-30-b5dd6ebb5c68cc951b7b13c6e3b70c3e.mp4
 #EXTINF:-1 group-title="VOD MOVIES",CRAZY RICH ASIANS (2018)
 http://srv28.nf21.net/files/15-2019-03-17-75766010094d81eaeb0953c94f8feeb4.mp4
 #EXTINF:-1 group-title="VOD MOVIES",101 Dalmatians (1961)
@@ -2635,6 +2629,46 @@ https://archive.org/download/sdf86g54sd5314as65f4deg864sd/sdf86g54sd5314as65f4de
 https://archive.org/download/f4de4f56df1e56f4we8f4we4f/f4de4f56df1e56f4we8f4we4f.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Asia
 https://archive.org/download/sd45fsd5gf48ef4as5d4f/sd45fsd5gf48ef4as5d4f.mp4
+#EXTINF:-1 group-title="VOD KIDS",LUCA (2021)
+https://cldup.com/idfkuwKug37.mp4
+#EXTINF:-1 group-title="VOD KIDS",SCOOB! (2021)
+https://uvideo.is3.cloudhost.id/upload/videos/2021/06/hUXORVDCTqBiBrQVL527_30_4db7401e00242fb4e6fdff1781babae3_video_240p_converted.mp4
+#EXTINF:-1 group-title="VOD KIDS",RAYA AND THE LAST DRAGON (2021)
+https://uvideo.is3.cloudhost.id/upload/videos/2021/06/z4OZtSdBpFJdBTnMRdqA_11_01be215da1a3e00ee1da47de55d7bbc1_video_240p_converted.mp4
+#EXTINF:-1 group-title="VOD KIDS",TROLLS WORLD TOUR (2020)
+https://uvideo.is3.cloudhost.id/upload/videos/2021/06/FrNaE5ffRQauHUWKNiaT_15_e686be72f1a685516fb5bcad992bd3a1_video_240p_converted.mp4
+#EXTINF:-1 group-title="VOD KIDS",DOLITTLE (2020)
+https://cdn.uvideo.xyz/0:/Dubbing/W.Movie/Dolittle/Dolittle.2020.360p.Dubbing.php?=.mp4
+#EXTINF:-1 group-title="VOD KIDS",StarDog and TurboCat (2019)
+https://cdn.uvideo.xyz/0:/Dubbing/W.Movie/StarDog.and.TurboCat/StarDog.and.TurboCat.2019.Dubbing.php?=.mp4
+#EXTINF:-1 group-title="VOD KIDS",CARS (2006)
+https://cldup.com/iaDs12AAVLi.mp4
+#EXTINF:-1 group-title="VOD KIDS",CARS 2 (2011)
+https://cdn.uvideo.xyz/0:/Dubbing/W.Movie/Cars/Cars.2.2011.360p.Dubbing.php?=.mp4
+#EXTINF:-1 group-title="VOD KIDS",CARS 3 (2017)
+https://cdn.uvideo.xyz/0:/Dubbing/W.Movie/Cars/Cars.3.2017.360p.Dubbing.php?=.mp4
+#EXTINF:-1 group-title="VOD KIDS",MOANA (2016)
+https://uvideo.is3.cloudhost.id/upload/videos/2021/06/6wTV5oGKbUHbW81Podh4_05_ce0905bd3acf16955305c8ed5fc41b4f_video_240p_converted.mp4
+#EXTINF:-1 group-title="VOD KIDS",KHUMBA (2013)
+https://uvideo.is3.cloudhost.id/upload/videos/2021/05/96rVFVWkHJnwZz1yiNCr_12_78888affcf3f701da25899296d372510_video_240p_converted.mp4
+#EXTINF:-1 group-title="VOD KIDS",PADDLE POP BEGINS (2012)
+https://uvideo.is3.cloudhost.id/upload/videos/2021/07/J8YSS4zHaKMu1MoRfFlc_13_38e449441bdb78f9a0a95cb83ef3589b_video_240p_converted.mp4
+#EXTINF:-1 group-title="VOD KIDS",PADDLE POP KOMBATEI (2010)
+https://uvideo.is3.cloudhost.id/upload/videos/2021/07/nHln3Tva5b21WO3AAGRG_12_b9764316315f3ced459ea514292f0b1e_video_240p_converted.mp4
+#EXTINF:-1 group-title="VOD KIDS",ASTRO BOY (2009)
+https://cdn.uvideo.xyz/0:/Dubbing/W.Movie/Astro.Boy/Astro.Boy.2009.Dubbing.php?=.mp4
+#EXTINF:-1 group-title="VOD KIDS",BIG HERO 6 (2014)
+https://cldup.com/iGXotzJnGCO.mp4
+#EXTINF:-1 group-title="VOD KIDS",STAND BY ME DORAEMON (2014)
+https://cdn.uvideo.xyz/0:/Dubbing/Anime.Movie/Doraemon/Stand.by.Me.Doraemon.2014.Dubbing.php?=.mp4
+#EXTINF:-1 group-title="VOD KIDS",RATATAOUILLE (2007)
+https://cldup.com/i8wnKCm6KJ0.mp4
+#EXTINF:-1 group-title="VOD KIDS",A Bug's Life (1998)
+https://cldup.com/iYJtn0fh10Y.mp4
+#EXTINF:-1 group-title="VOD KIDS",DINOSAUR (2000)
+https://cdn.uvideo.xyz/0:/Dubbing/W.Movie/Dinosaur/Dinosaur.2000.Dubbing.php?=.mp4
+#EXTINF:-1 group-title="VOD KIDS",PADDLE POP BEGINS 2 (2013)
+https://uvideo.is3.cloudhost.id/upload/videos/2021/07/dLsHXu4lI4ZJP5T7Ot5A_13_3ff50e68e2d10a5c65bfb4ee012bf010_video_240p_converted.mp4
 #EXTINF:-1 group-title="VOD KIDS",Onward (2020)
 https://lh3.googleusercontent.com/fF8HWTTEyxQ47-aS0eX_bgduZKpSz7nQMWvNFZHITRQuzFfDsIEEUnHJLafBEFD5G2YVWzCFvQHondQrww=m22
 #EXTINF:-1 group-title="VOD KIDS",Superman: Red Son (2020)
@@ -2701,8 +2735,6 @@ https://lh3.googleusercontent.com/Sbe_gGA74E2qWCtkNQh2YsIP0eOk90vlmXMm0GIbkDFyHz
 https://lh3.googleusercontent.com/eZ7xx-sBxliS9RqIPS83EV1Y2hpMrpGy3quJCh7w6jH6lED7pkifhEsAhF2Irc2fbHKZ-8Ou6MkmxB9GHw=m22
 #EXTINF:-1 group-title="VOD KIDS",The Big Bad Fox and Other Tales (2017)
 https://lh3.googleusercontent.com/G-0j3_7K676OGoGA2PycgVT3Mq7pgKlDxHU4gukrkiNT-4Ll0WpFxYIv9tKV75q5P4FTi-CX-WUGNswRdQ=m22
-#EXTINF:-1 group-title="VOD KIDS",Cars 3 (2017)
-https://lh3.googleusercontent.com/DsFO0So_8Ks63rpRM3lFR-gavagVOhH38tMQFvJ5yDDGvrwTq8jG7onwEbzCl15Hg9b1vcjtV7-4extntA=m22
 #EXTINF:-1 group-title="VOD KIDS",The Boss Baby (2017)
 https://lh3.googleusercontent.com/qM-0IPEMej1OcTvnCWLO6A4cFlW8FM4vxugM1HLB8aQSptB8yMeHXv_iQS8x26FCXEpOyUiffTP5Z6zRCw=m22
 #EXTINF:-1 group-title="VOD KIDS",The Emoji Movie (2017)
@@ -2721,8 +2753,6 @@ https://lh3.googleusercontent.com/K2Lyu64Zhsc-c3aAL5tKhs_hZUmS7hg34jAb8REJR8kicf
 https://lh3.googleusercontent.com/F-ZaqB6AZRfu2sre6CegW0Ag039Xx0UNgAqXxKq4HkVn0HLoXP5z-Fk-s1XcAv_Kioct8jw-zN44GS4jGg=m22
 #EXTINF:-1 group-title="VOD KIDS",Kung Fu Panda 3 (2016)
 https://lh3.googleusercontent.com/vf_QmvXXYq6uJQF8FVzUln20qss9OaFmfmVvPIiUV8yFr44b_SYJ5VhJsQxBnlTjsjPWAwkO7HBoglpUAg=m22
-#EXTINF:-1 group-title="VOD KIDS",Moana (2016)
-https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
 #EXTINF:-1 group-title="VOD KIDS",Scooby-Doo! and WWE: Curse of the Speed Demon (2016)
 https://lh3.googleusercontent.com/9Pwu6oU8JOO8xLQvcbZKBv92_Xg30CGIKiZOn_e1zM62QEmMO83oqTYnMZ-qc3ngLmqz64PRK6KjVSbeJQ=m22
 #EXTINF:-1 group-title="VOD KIDS",Spark: A Space Tail (2016)
@@ -2737,8 +2767,6 @@ https://lh3.googleusercontent.com/pUutwYf_P9CNpUGwfYJMqB3zkbV4wmTI2_klCx5cUD4Fap
 https://lh3.googleusercontent.com/f3uaz13M7le6hfjKjBOIR6tNCUObu4gIPfEFosf6j72n2gWAg7J05A7CV6M-w8FcwdtXirBy5atiF78XDQ=m22
 #EXTINF:-1 group-title="VOD KIDS",Hotel Transylvania 2 (2015)
 https://lh3.googleusercontent.com/9ZY3rYtARr5sdcwAGPrRLe8Z-Hp_U_TLDHyzv8VwYmpscPHtsPlrbQ3CzVT5llUxk-QfFuM9BvXvjurBfg=m22
-#EXTINF:-1 group-title="VOD KIDS",Big Hero 6 (2014)
-https://lh3.googleusercontent.com/mV11TdGvhSdWZ75efJTwtthswHvj_Pr_425CFgjciLVfW5-WoXNP_zq0tZ6OBKPu5cvQmC7EtBYmS7XeHA=m22
 #EXTINF:-1 group-title="VOD KIDS",Dragon Nest: Warriors' Dawn (2014)
 https://lh3.googleusercontent.com/8BhFNg4weFcTHteD-SGIkuTPrpm_DtSOBaU3Biu8mXfKFAbesUnJrR5fyFaUvfQUw_99G-MqKkENvxu1FQ=m22
 #EXTINF:-1 group-title="VOD KIDS",How to Train Your Dragon 2 (2014)
@@ -2765,8 +2793,6 @@ https://lh3.googleusercontent.com/zwsS5gwHpLhi-zdc1zC5LWGpZnWmf34X9r-kIAc2tqWAng
 https://lh3.googleusercontent.com/KqeaYVXh5fwJQ8__qnETIDtFd4CRO70sxLUtGGgpfwAA7K27QApbCDGPqfjoN5SjqoTmdh-aRJsmip-8vg=m22
 #EXTINF:-1 group-title="VOD KIDS",Wreck-It Ralph (2012)
 https://lh3.googleusercontent.com/HAmlehJxV5ht9uXTBJpZNQjsfarvDE1bB6p43Zdx_9W8B_WjJD23GUkbqABx89SVknBk-LNRyo1nT-c8-A=m22
-#EXTINF:-1 group-title="VOD KIDS",Cars 2 (2011)
-https://lh3.googleusercontent.com/ZoZmtDYUPUUzVm9ZkF7HbM2uxF80e5aNOEWOX-ks7hMEmIkmLHMlIz4nbZCsGoVT0EIDej-dW5wLtw_eZA=m22
 #EXTINF:-1 group-title="VOD KIDS",Kung Fu Panda 2 (2011)
 https://lh3.googleusercontent.com/gSfq9VdV9U8LRF5Cj27gel2507QXEzUhHdljNA9YoLxH4fQMba8rxENXLw8kRSzhifl3QHLonXimSWkSeQ=m22
 #EXTINF:-1 group-title="VOD KIDS",Mars Needs Moms (2011)
@@ -2781,8 +2807,6 @@ https://lh3.googleusercontent.com/hhi756pirDCaC88olH53sA6Djx8ftsQIwGfEwgWQ2iWlc4
 https://lh3.googleusercontent.com/S4U5m_bep6TYRYiAIqCmDL8sEzMFZD9QqTe6u_aQjqtJgD6uGSnfKQ-YYWGGGyWcFEm9pbiBhE97JRLlKQ=m22
 #EXTINF:-1 group-title="VOD KIDS",Kung Fu Panda (2008)
 https://lh3.googleusercontent.com/-p78whiwcwyIIVLMyyAv8YEGzBOBqP74QRsprLSdf0hc_mXRkvtp5OB3BWdzt4kT28ujMnjJ1NJGUJ8agw=m22
-#EXTINF:-1 group-title="VOD KIDS",Cars (2006)
-https://lh3.googleusercontent.com/NTaQ7QK6M-pvb2TCZBpua6lgVR7AMHfzS5L5X_BsXPDGGlx1GLenSlvc4ZRtQo0ZHWBdRM2KA-np-lQ7Uw=m22
 #EXTINF:-1 group-title="VOD KIDS",Ice Age: The Meltdown (2006)
 https://lh3.googleusercontent.com/_e3MaCLRE2pFQSYdaLHBoIiN6O7i6ALosCHAiYUDILysW75D9VLG-ChTxhwVk4jUccEXUHa2dqjIoOU1GA=m22
 #EXTINF:-1 group-title="VOD KIDS",Scooby-Doo! (2005)
@@ -2799,44 +2823,6 @@ https://lh3.googleusercontent.com/3fvODebLW56vcDLjIbx72M3tLuuII5kjHnyNDhMbKEm94U
 https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2I3CT3alBlW9F63IWRoyXBJokoaEi0yiCSwWg=m22
 #EXTINF:-1 group-title="VOD KIDS",Aladin (1993)
 https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
-#EXTINF:-1 group-title="VOD KIDS",LUCA (2021)
-https://cldup.com/idfkuwKug37.mp4
-#EXTINF:-1 group-title="VOD KIDS",SCOOB! (2021)
-https://uvideo.is3.cloudhost.id/upload/videos/2021/06/hUXORVDCTqBiBrQVL527_30_4db7401e00242fb4e6fdff1781babae3_video_240p_converted.mp4
-#EXTINF:-1 group-title="VOD KIDS",RAYA AND THE LAST DRAGON (2021)
-https://uvideo.is3.cloudhost.id/upload/videos/2021/06/z4OZtSdBpFJdBTnMRdqA_11_01be215da1a3e00ee1da47de55d7bbc1_video_240p_converted.mp4
-#EXTINF:-1 group-title="VOD KIDS",TROLLS WORLD TOUR (2020)
-https://uvideo.is3.cloudhost.id/upload/videos/2021/06/FrNaE5ffRQauHUWKNiaT_15_e686be72f1a685516fb5bcad992bd3a1_video_240p_converted.mp4
-#EXTINF:-1 group-title="VOD KIDS",DOLITTLE (2020)
-https://cdn.uvideo.xyz/0:/Dubbing/W.Movie/Dolittle/Dolittle.2020.360p.Dubbing.php?=.mp4
-#EXTINF:-1 group-title="VOD KIDS",StarDog and TurboCat (2019)
-https://cdn.uvideo.xyz/0:/Dubbing/W.Movie/StarDog.and.TurboCat/StarDog.and.TurboCat.2019.Dubbing.php?=.mp4
-#EXTINF:-1 group-title="VOD KIDS",CARS (2006)
-https://cldup.com/iaDs12AAVLi.mp4
-#EXTINF:-1 group-title="VOD KIDS",CARS 2 (2011)
-https://cdn.uvideo.xyz/0:/Dubbing/W.Movie/Cars/Cars.2.2011.360p.Dubbing.php?=.mp4
-#EXTINF:-1 group-title="VOD KIDS",CARS 3 (2017)
-https://cdn.uvideo.xyz/0:/Dubbing/W.Movie/Cars/Cars.3.2017.360p.Dubbing.php?=.mp4
-#EXTINF:-1 group-title="VOD KIDS",MOANA (2016)
-https://uvideo.is3.cloudhost.id/upload/videos/2021/06/6wTV5oGKbUHbW81Podh4_05_ce0905bd3acf16955305c8ed5fc41b4f_video_240p_converted.mp4
-#EXTINF:-1 group-title="VOD KIDS",KHUMBA (2013)
-https://uvideo.is3.cloudhost.id/upload/videos/2021/05/96rVFVWkHJnwZz1yiNCr_12_78888affcf3f701da25899296d372510_video_240p_converted.mp4
-#EXTINF:-1 group-title="VOD KIDS",PADDLE POP BEGINS (2012)
-https://uvideo.is3.cloudhost.id/upload/videos/2021/07/J8YSS4zHaKMu1MoRfFlc_13_38e449441bdb78f9a0a95cb83ef3589b_video_240p_converted.mp4
-#EXTINF:-1 group-title="VOD KIDS",PADDLE POP KOMBATEI (2010)
-https://uvideo.is3.cloudhost.id/upload/videos/2021/07/nHln3Tva5b21WO3AAGRG_12_b9764316315f3ced459ea514292f0b1e_video_240p_converted.mp4
-#EXTINF:-1 group-title="VOD KIDS",ASTRO BOY (2009)
-https://cdn.uvideo.xyz/0:/Dubbing/W.Movie/Astro.Boy/Astro.Boy.2009.Dubbing.php?=.mp4
-#EXTINF:-1 group-title="VOD KIDS",BIG HERO 6 (2014)
-https://cldup.com/iGXotzJnGCO.mp4
-#EXTINF:-1 group-title="VOD KIDS",STAND BY ME DORAEMON (2014)
-https://cdn.uvideo.xyz/0:/Dubbing/Anime.Movie/Doraemon/Stand.by.Me.Doraemon.2014.Dubbing.php?=.mp4
-#EXTINF:-1 group-title="VOD KIDS",RATATAOUILLE (2007)
-https://cldup.com/i8wnKCm6KJ0.mp4
-#EXTINF:-1 group-title="VOD KIDS",A Bug's Life (1998)
-https://cldup.com/iYJtn0fh10Y.mp4
-#EXTINF:-1 group-title="VOD KIDS",DINOSAUR (2000)
-https://cdn.uvideo.xyz/0:/Dubbing/W.Movie/Dinosaur/Dinosaur.2000.Dubbing.php?=.mp4
 #EXTINF:-1 group-title="TILAWAH ALQUR'AN",[001] Surah Alfatihah (Pembukaan)
 https://archive.org/download/MurotalMR/001.mp3
 #EXTINF:-1 group-title="TILAWAH ALQUR'AN",[002] Surah Al-Baqarah (Lembu Betina)
