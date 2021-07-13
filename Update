@@ -1363,6 +1363,8 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s22/01.m3u8
 #EXTINF:-1 group-title="NEWS",MNC News
 https://cdn-livetv-studio.metube.id/mncnews.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",Godzilla vs. Kong (2021)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7332.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Tom and Jerry (2021)
 https://cdn2ii.diebutx.com/own2hls/2020/0dfcb92a188bc7676b71c95902e2cca7/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",Vanquish (2021)
@@ -1383,6 +1385,8 @@ https://cdn3ii.diebutx.com/own2hls/2020/769174d6904c3acda2034ecedd2179dd/540p/in
 https://cdn2ii.diebutx.com/own2hls/2020/aacc3c9262fbb8da9ff992c66a73f062/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",The Yin Yang Master (2021)
 https://cdn3ii.diebutx.com/own2hls/2020/60a4e83ee154b971dd8daf9ec9146b66/540p/index.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",Cun! (2011)
+http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/426.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Wu Song�s Bloody Battle With Lion House (2021)
 https://cdn2ii.diebutx.com/own2hls/2020/b9b11c30beb13b11c1d88de8a0a10b62/540p/index.m3u8
 #EXTINF:-1 group-title="VOD MOVIES",Zack Snyder's Justice League (2021)
