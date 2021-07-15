@@ -1363,6 +1363,8 @@ http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 http://210.210.155.35:80/session/497a1e3c-2edf-11eb-a245-b82a72d63267/qwr9ew/s/s22/01.m3u8
 #EXTINF:-1 group-title="NEWS",MNC News
 https://cdn-livetv-studio.metube.id/mncnews.m3u8
+#EXTINF:-1 group-title="VOD MOVIES",aptain Marvel (2019)
+https://uvideo.is3.cloudhost.id/upload/videos/2021/07/aotaVMVZO541Yx7gza6H_12_d6ff946584af1bd6060041a96e54cff6_video_360p_converted.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Godzilla vs. Kong (2021)
 http://iptv.tvmalaysia.cc:80/movie/penang172/penang172/7332.mp4
 #EXTINF:-1 group-title="VOD MOVIES",Tom and Jerry (2021)
